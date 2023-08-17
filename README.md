@@ -17,7 +17,7 @@
 	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="ak4m410x01" target="_blank", width=44%/> 
 	</a>
-	<img src="https://komarev.com/ghpvc/?username=ak4m410x01&label=Profile%20Views&color=blue&labelColor=000000&style=flat" alt="ak4m410x01" width=17%/>
+	<img src="https://komarev.com/ghpvc/?username=ak4m41x01&label=Profile%20Views&color=blue&labelColor=000000&style=flat" alt="ak4m410x01" width=17%/>
 </p>
 
 <!-- --- -->
@@ -65,7 +65,7 @@
 ## <img src="./assets/images/competitive_programmer.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" style="border-radius:15%" width=8%> My Competitive Programming Profiles
 
 <div align="center" width=100%>
-  <a href="https://codeforces.com/profile/ak4m410x01">
+  <a href="https://codeforces.com/profile/3bdullahkama1">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="CodeForces" width=6%/></a>
 	  &emsp; 
 	  &emsp; 
@@ -267,7 +267,7 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ak4m410x01&theme=tokyonight_duo" alt="ak4m410x01" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ak4m41x01&theme=tokyonight_duo" alt="ak4m410x01" /></p>
 
 </details>
 
@@ -280,8 +280,8 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="ak4m410x01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ak4m410x01&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak4m410x01&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ak4m410x01" height="230px"/>
+	    <img alt="ak4m410x01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ak4m41x01&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak4m41x01&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ak4m410x01" height="230px"/>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -296,7 +296,7 @@
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ak4m410x01&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ak4m41x01&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
  
 </details>
 
@@ -309,7 +309,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ak4m410x01&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ak4m410x01" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ak4m41x01&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ak4m410x01" /></a>
 </p>
 
 </details>
