@@ -17,7 +17,7 @@
 	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="ak4m410x01" target="_blank", width=44%/> 
 	</a>
-	<img src="https://komarev.com/ghpvc/?username=ak4m41x01&label=Profile%20Views&color=blue&labelColor=000000&style=flat" alt="ak4m410x01" width=17%/>
+	<img src="https://komarev.com/ghpvc/?username=ak4m410x01&label=Profile%20Views&color=blue&labelColor=000000&style=flat" alt="ak4m410x01" width=17%/>
 </p>
 
 <!-- --- -->
@@ -88,7 +88,7 @@
 	<a href="mailto:abdullah.kamal0x01@gmail.com">
   <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	  &emsp;
-	<a href="https://github.com/ak4m41x01">
+	<a href="https://github.com/ak4m410x01">
   <img src="https://img.shields.io/badge/github-%23181717.svg?&logo=github&logoColor=white" alt="GitHub"/></a>
 	  &emsp;
 	<a href="https://www.linkedin.com/in/ak4m410x01/">
@@ -267,7 +267,7 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ak4m41x01&theme=tokyonight_duo" alt="ak4m410x01" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ak4m410x01&theme=tokyonight_duo" alt="ak4m410x01" /></p>
 
 </details>
 
@@ -280,8 +280,8 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="ak4m410x01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ak4m41x01&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak4m41x01&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ak4m410x01" height="230px"/>
+	    <img alt="ak4m410x01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ak4m410x01&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak4m410x01&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ak4m410x01" height="230px"/>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -296,7 +296,7 @@
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ak4m41x01&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ak4m410x01&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
  
 </details>
 
@@ -309,7 +309,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ak4m41x01&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ak4m410x01" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ak4m410x01&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ak4m410x01" /></a>
 </p>
 
 </details>
