@@ -80,7 +80,7 @@
   <a href="https://leetcode.com/ak4m410x01/">
   <img src="./assets/images/leetcode_profile_icon.png" alt="LeetCode" width="%6"/></a>&emsp;&emsp;&emsp; 
 	
-  <a href="https://leetcode.com/ak4m410x01/">
+  <a href="https://hackerrank.com/ak4m410x01/">
   <img src="./assets/images/hackerrank_profile_icon.png" alt="LeetCode" width="%6"/></a>&emsp;&emsp;&emsp; 
 	
   <a href="https://icpc.global/ICPCID/RYCWA1HDIYZ3">
