@@ -39,8 +39,6 @@
 
 <img align="right" src="./assets/images/right_side.gif" width="33%">
 
-<p align="center" style="font-family: 'Ubuntu Mono';font-style: italic;">&emsp;Hi, My name <b>Abdullah Kamal</b>. I'm a <b>Backend Developer</b> and <b>Penetration Tester</b>, I have knowledge in many fields like Web Development, Database, Networking, System Administration, Web Penetration Testing and Network Penetration Testing. I participate in serveral Compitions like ECPC for Problem Solvers, ICMTC and Cybertalents for CTF Players. Interesting in Web Development, bug hunting and fix vulnerabilities.
-</p>
 
 <br />
 
