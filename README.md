@@ -28,8 +28,8 @@
 
 <!-- Cover Image -->
 <div align="center">
-  <img src="./assets/images/img_1.jpg" width="100%" height="50%">
-  <img src="./assets/images/img_2.jpg" width="100%" height="20%">
+  <img src="./assets/images/cover_img_1.jpg" width="100%" height="50%">
+  <img src="./assets/images/cover_img_2.jpg" width="100%" height="20%">
 </div>
 <!-- =============================== -->
 
