@@ -1,16 +1,16 @@
 <!-- Name -->
-<h1 align="center">
-  <img src="./assets/images/name.gif" alt="name" width="80%">
-  <img src="./assets/images/hand_hover.gif" alt="hand_hover" width="5%">
-</h1>
+<div align="center">
+	<img src="./assets/images/name.gif" alt="name" width="80%">
+	<img src="./assets/images/hand_hover.gif" alt="Hand Hover" width="5%">
+</div>
 <!-- =============================== -->
 
 
 <!-- Job Title -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=950&size=50&pause=950&color=2139ff&center=true&vCenter=true&width=700&height=90&lines=Software+Engineer;Django+Backend+Developer;Penetration+Tester;CTF+Player;Competitive+Programmer;Always+learning+new+things" alt="Job Title" />
-  </a>
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=950&size=50&pause=950&color=2139ff&center=true&vCenter=true&width=700&height=90&lines=Software+Engineer;Django+Backend+Developer;Penetration+Tester;CTF+Player;Competitive+Programmer;Always+learning+new+things" alt="Job Title" />
+	</a>
 </div>
 <br />
 <!-- =============================== -->
@@ -28,14 +28,18 @@
 
 <!-- Cover Image -->
 <div align="center">
-  <img src="./assets/images/cover_img_1.jpg" width="100%" height="50%">
-  <img src="./assets/images/cover_img_2.jpg" width="100%" height="20%">
+	<img src="./assets/images/cover_img_1.jpg" width="100%" height="50%">
+	<img src="./assets/images/cover_img_2.jpg" width="100%" height="20%">
 </div>
 <!-- =============================== -->
 
 
 <!-- About me -->
-## <img src="./assets/images/about_me.gif" width="6.8%" /> About me
+<div>
+	<img src="./assets/images/about_me.gif" width="6.8%" />
+	<span> About me </span>
+</div>
+
 
 <img align="right" src="./assets/images/right_side.gif" width="33%">
 
@@ -54,24 +58,28 @@
 ---
 
 <!-- CTF Profiles -->
-## <img src="./assets/images/ctf_player.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" style="border-radius:12%" width="10%"> My CTF Profiles
+<div>
+	<img src="./assets/images/ctf_player.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" style="border-radius:12%" width="10%">
+	<span> My CTF Profiles </span>
+</div>
 
 <div align="center" width="100%">
-  <a href="@ak4m410x01">
-    <img src="./assets/images/portswigger.png" alt="PortSwigger" width="10%"/></a>&emsp;&emsp; 
-	
-  <a href="https://cybertalents.com/members/ak4m410x01/profile">
-    <img src="./assets/images/cybertalents.png" alt="CyberTalents" width="10%"/></a>&emsp;&emsp; 
-	
-  <a href="https://tryhackme.com/p/3bdullahkama1">
-    <img src="./assets/images/tryhackme.png" alt="TryHackMe" width="10%" /></a>     
+	<a href="@ak4m410x01">
+	<img src="./assets/images/portswigger.png" alt="PortSwigger" width="10%"/></a>&emsp;&emsp; 
+	<a href="https://cybertalents.com/members/ak4m410x01/profile">
+	<img src="./assets/images/cybertalents.png" alt="CyberTalents" width="10%"/></a>&emsp;&emsp; 
+	<a href="https://tryhackme.com/p/3bdullahkama1">
+	<img src="./assets/images/tryhackme.png" alt="TryHackMe" width="10%" /></a>     
 </div>
 
 <br />
 <!-- =============================== -->
 
 <!-- Competitive Programming Profiles -->
-## <img src="./assets/images/competitive_programmer.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" style="border-radius:15%" width=8%> My Competitive Programming Profiles
+<div>
+	<img src="./assets/images/competitive_programmer.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" style="border-radius:15%" width=8%>
+	<span> My Competitive Programming Profiles </span>
+</div>
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/3bdullahkama1">
@@ -89,7 +97,10 @@
 <!-- =============================== -->
 
 <!-- Contact with me -->
-## <img src="./assets/images/contact_with_me.gif?raw=true" width="10%"> Contact with me
+<div>
+	<img src="./assets/images/contact_with_me.gif?raw=true" width="10%">
+	<span> Contact with me </span>
+</div>
 
 <p align="center">
   <a href="mailto:abdullah.kamal0x01@outlook.com">
@@ -111,33 +122,42 @@
 
 
 <!-- Skills -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+<div>
+	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
+	<span> My Skills </span>
+</div>
 
 <!-- Programming Languages -->
-### <img src = "./assets/images/Programming_Languages.gif?raw=true" width=5%> Programming Languages
+<div>
+	<img src = "./assets/images/Programming_Languages.gif?raw=true" width=5%>
+	<span> Programming Languages </span>
+</div>
 
 <p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?&logo=c&logoColor=white">
-  </a>&emsp;
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?&logo=c%2B%2B&logoColor=white">
-  </a>&emsp;
-   
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&logo=python&logoColor=white">
-  </a>&emsp;
-  
-  <a href="https://www.php.net" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white">
-  </a>
+	<a href="https://www.cprogramming.com/" target="_blank"> 
+		<img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?&logo=c&logoColor=white">
+	</a>
+	&emsp;
+	<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+		<img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?&logo=c%2B%2B&logoColor=white">
+	</a>
+	&emsp;
+	<a href="https://www.python.org" target="_blank">
+		<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&logo=python&logoColor=white">
+	</a>
+	&emsp;
+	<a href="https://www.php.net" target="_blank">
+		<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white">
+	</a>
 </p>
 <!-- ------------------------------------------ -->
 
 
 <!-- Frontend Development -->
-### <img src = "./assets/images/front_end.gif?raw=true" width=5%> Frontend Development
+<div>
+	<img src = "./assets/images/front_end.gif?raw=true" width=5%>
+	<span> Frontend Development </span>
+</div>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -152,7 +172,10 @@
 
 
 <!-- Backend Development -->
-### <img src = "./assets/images/backend.gif?raw=true" width=5%> Backend Development
+<div>
+	<img src = "./assets/images/backend.gif?raw=true" width=5%>
+	<span> Backend Development </span>
+</div>
 
 <p align="center"> 
    <a href="https://www.php.net" target="_blank">
@@ -170,7 +193,10 @@
 <!-- ------------------------------------------ -->
 
 <!-- Database -->
-### <img src = "./assets/images/database.gif?raw=true" width=5%> Database
+<div>
+	<img src = "./assets/images/database.gif?raw=true" width=5%>
+	<span> Database </span>
+</div>
 
 <p align="center"> 
   &emsp; 
@@ -189,7 +215,10 @@
 <!-- ------------------------------------------ -->
 
 <!-- Software & Tools -->
-### <img src = "./assets/images/Software_Tools.gif?raw=true" width=5%> Software & Tools
+<div>
+	<img src = "./assets/images/Software_Tools.gif?raw=true" width=5%>
+	<span> Software & Tools </span>
+</div>
 
 <p align="center">
   &emsp;
@@ -217,7 +246,10 @@
 <!-- ------------------------------------------ -->
 
 <!-- IDEs -->
-### <img src = "./assets/images/IDEs.gif?raw=true" width=5%> IDEs
+<div>
+	<img src = "./assets/images/IDEs.gif?raw=true" width=5%>
+	<span> IDEs </span>
+</div>
 
 <p align="center">
   &emsp;
@@ -233,7 +265,10 @@
 <!-- ------------------------------------------ -->
 
 <!-- Operating Systems -->
-### <img src = "./assets/images/os.gif?raw=true" width=5%> Operating Systems
+<div>
+	<img src = "./assets/images/os.gif?raw=true" width=5%>
+	<span> Operating Systems </span>
+</div>
 
 <p align="center">
   &emsp;
@@ -276,7 +311,10 @@
   <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+<div>
+	<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom">
+	<span> Github Stats </span>
+</div>
 
 <details>
   <summary><h3> 🔥 Streak Stats</h3></summary>
@@ -307,6 +345,8 @@
 
 <!-- --- -->
 
+
+
 <details>
   <summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
@@ -318,23 +358,28 @@
 
 <!-- --- -->
 
+<!--
+
 <details>
   <summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ---
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ak4m410x01&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ak4m410x01" /></a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img src="https://github-profile-trophy.vercel.app/?username=ak4m410x01&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ak4m410x01" />
+	</a>
 </p>
 
 </details>
+
+-->
 
 </br></br>
 
 <!-- --- -->
 
-## 🐍 A Snake Eating my Contributions Graph
+<h2> 🐍 A Snake Eating my Contributions Graph </h2>
 
 <p align = "center">
 	<img src = "./assets/images/github-contribution-grid-snake.svg" alt = "Snake Game"/>
