@@ -21,9 +21,7 @@
 	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="ak4m410x01" target="_blank", width="44%"/> 
 	</a>
-	<!--
 	<img src="https://komarev.com/ghpvc/?username=ak4m410x01&label=Profile%20Views&color=blue&labelColor=000000&style=flat" alt="ak4m410x01" width="19%"/>
-	-->
 </div>
 <!-- =============================== -->
 
