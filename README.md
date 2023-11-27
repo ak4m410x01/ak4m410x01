@@ -5,7 +5,6 @@
 </div>
 <!-- =============================== -->
 
-
 <!-- Job Title -->
 <div align="center">
 	<a href="https://git.io/typing-svg">
@@ -14,7 +13,6 @@
 </div>
 <br />
 <!-- =============================== -->
-
 
 <!-- Profile Views -->
 <div align="center">
@@ -25,7 +23,6 @@
 </div>
 <!-- =============================== -->
 
-
 <!-- Cover Image -->
 <div align="center">
 	<img src="./assets/images/cover_img_1.jpg" width="100%" height="50%">
@@ -33,16 +30,15 @@
 </div>
 <!-- =============================== -->
 
-
 <!-- About me -->
-<div>
+<!-- <div>
 	<img src="./assets/images/about_me.gif" width="6.8%" />
 	<span> About me </span>
-</div>
+</div> -->
 
+## <img src="./assets/images/about_me.gif" width="6.8%" /> About me
 
 <img align="right" src="./assets/images/right_side.gif" width="33%">
-
 
 <br />
 
@@ -51,6 +47,7 @@
 - :computer: I am a **`Competitive Programmer`** at [ECPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/3bdullahkama1), [Leetcode](https://leetcode.com/ak4m410x01), [HackerRank](https://www.hackerrank.com/ak4m410x01).
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](./assets/docs/Abdullah_Kamal_Resume.pdf).
+- :boom: You can visit [Portfolio](https://ak4m410x01.github.io/Portfolio/).
 
 <br />
 <!-- =============================== -->
@@ -120,7 +117,6 @@
 </p>
 <!-- =============================== -->
 
-
 <!-- Skills -->
 <div>
 	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
@@ -152,7 +148,6 @@
 </p>
 <!-- ------------------------------------------ -->
 
-
 <!-- Frontend Development -->
 <div>
 	<img src = "./assets/images/front_end.gif?raw=true" width=5%>
@@ -169,7 +164,6 @@
   </a>
 </p>
 <!-- ------------------------------------------ -->
-
 
 <!-- Backend Development -->
 <div>
@@ -303,7 +297,6 @@
 <br />
 <!-- ------------------------------------------ -->
 
-
 ---
 
 <p align = "center">
@@ -345,8 +338,6 @@
 
 <!-- --- -->
 
-
-
 <details>
   <summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
@@ -365,7 +356,7 @@
 
 ---
 
-<p align="center"> 
+<p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img src="https://github-profile-trophy.vercel.app/?username=ak4m410x01&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ak4m410x01" />
 	</a>
