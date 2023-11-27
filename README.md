@@ -1,40 +1,44 @@
 <!-- Name -->
+
 <div align="center">
 	<img src="./assets/images/name.gif" alt="name" width="80%">
 	<img src="./assets/images/hand_hover.gif" alt="Hand Hover" width="5%">
 </div>
+
 <!-- =============================== -->
 
 <!-- Job Title -->
+
 <div align="center">
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=950&size=50&pause=950&color=2139ff&center=true&vCenter=true&width=700&height=90&lines=Software+Engineer;Backend+Developer;Penetration+Tester;Always+learning+new+things" alt="Job Title" />
 	</a>
 </div>
 <br />
+
 <!-- =============================== -->
 
 <!-- Profile Views -->
+
 <div align="center">
 	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="ak4m410x01" target="_blank", width="44%"/> 
 	</a>
 	<img src="https://komarev.com/ghpvc/?username=ak4m410x01&label=Profile%20Views&color=blue&labelColor=000000&style=flat" alt="ak4m410x01" width="19%"/>
 </div>
+
 <!-- =============================== -->
 
 <!-- Cover Image -->
+
 <div align="center">
 	<img src="./assets/images/cover_img_1.jpg" width="100%" height="50%">
 	<img src="./assets/images/cover_img_2.jpg" width="100%" height="20%">
 </div>
+
 <!-- =============================== -->
 
 <!-- About me -->
-<!-- <div>
-	<img src="./assets/images/about_me.gif" width="6.8%" />
-	<span> About me </span>
-</div> -->
 
 ## <img src="./assets/images/about_me.gif" width="6.8%" /> About me
 
@@ -45,20 +49,19 @@
 - :school: I am a **`Student`** at [Faculty of Computers & AI](https://fci.sohag-univ.edu.eg/main/) at [Sohag University](https://www.sohag-univ.edu.eg/ar/).
 - :computer: I am a **`CTF Player`** at [Portswigger](https://portswigger.net/), [Cybertalents](https://cybertalents.com/members/ak4m410x01/profile), [TryHackMe](https://tryhackme.com/p/3bdullahkama1).
 - :computer: I am a **`Competitive Programmer`** at [ECPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/3bdullahkama1), [Leetcode](https://leetcode.com/ak4m410x01), [HackerRank](https://www.hackerrank.com/ak4m410x01).
-- :nerd_face: Always `learning new things`.
+- :nerd_face: Always `learning new technologies`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](./assets/docs/Abdullah_Kamal_Resume.pdf).
 - :boom: You can visit [Portfolio](https://ak4m410x01.github.io/Portfolio/).
 
 <br />
+
 <!-- =============================== -->
 
 ---
 
 <!-- CTF Profiles -->
-<div>
-	<img src="./assets/images/ctf_player.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" style="border-radius:12%" width="10%">
-	<span> My CTF Profiles </span>
-</div>
+
+## <img src="./assets/images/ctf_player.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" style="border-radius:12%" width="10%"> My CTF Profiles
 
 <div align="center" width="100%">
 	<a href="@ak4m410x01">
@@ -70,13 +73,12 @@
 </div>
 
 <br />
+
 <!-- =============================== -->
 
 <!-- Competitive Programming Profiles -->
-<div>
-	<img src="./assets/images/competitive_programmer.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" style="border-radius:15%" width=8%>
-	<span> My Competitive Programming Profiles </span>
-</div>
+
+## <img src="./assets/images/competitive_programmer.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" style="border-radius:15%" width=8%> My Competitive Programming Profiles
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/3bdullahkama1">
@@ -91,13 +93,12 @@
   <a href="https://icpc.global/ICPCID/RYCWA1HDIYZ3">
   <img src="./assets/images/icpcglobal_profile_icon.png" alt="ICPC Global" width="6%" /></a>     
 </div>
+
 <!-- =============================== -->
 
 <!-- Contact with me -->
-<div>
-	<img src="./assets/images/contact_with_me.gif?raw=true" width="10%">
-	<span> Contact with me </span>
-</div>
+
+## <img src="./assets/images/contact_with_me.gif?raw=true" width="10%"> Contact with me
 
 <p align="center">
   <a href="mailto:abdullah.kamal0x01@outlook.com">
@@ -115,19 +116,16 @@
   <a href="https://t.me/ak4m410x01">
   <img src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
+
 <!-- =============================== -->
 
 <!-- Skills -->
-<div>
-	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
-	<span> My Skills </span>
-</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 <!-- Programming Languages -->
-<div>
-	<img src = "./assets/images/Programming_Languages.gif?raw=true" width=5%>
-	<span> Programming Languages </span>
-</div>
+
+### <img src = "./assets/images/Programming_Languages.gif?raw=true" width=5%> Programming Languages
 
 <p align="center"> 
 	<a href="https://www.cprogramming.com/" target="_blank"> 
@@ -146,13 +144,12 @@
 		<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white">
 	</a>
 </p>
+
 <!-- ------------------------------------------ -->
 
-<!-- Frontend Development -->
-<div>
-	<img src = "./assets/images/front_end.gif?raw=true" width=5%>
-	<span> Frontend Development </span>
-</div>
+<!--  -->
+
+### <img src = "./assets/images/front_end.gif?raw=true" width=5%> Frontend Development
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -163,13 +160,12 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?&logo=css3&logoColor=white">
   </a>
 </p>
+
 <!-- ------------------------------------------ -->
 
-<!-- Backend Development -->
-<div>
-	<img src = "./assets/images/backend.gif?raw=true" width=5%>
-	<span> Backend Development </span>
-</div>
+<!--  -->
+
+### <img src = "./assets/images/backend.gif?raw=true" width=5%> Backend Development
 
 <p align="center"> 
    <a href="https://www.php.net" target="_blank">
@@ -187,10 +183,8 @@
 <!-- ------------------------------------------ -->
 
 <!-- Database -->
-<div>
-	<img src = "./assets/images/database.gif?raw=true" width=5%>
-	<span> Database </span>
-</div>
+
+### <img src = "./assets/images/database.gif?raw=true" width=5%> Database
 
 <p align="center"> 
   &emsp; 
@@ -209,10 +203,8 @@
 <!-- ------------------------------------------ -->
 
 <!-- Software & Tools -->
-<div>
-	<img src = "./assets/images/Software_Tools.gif?raw=true" width=5%>
-	<span> Software & Tools </span>
-</div>
+
+### <img src = "./assets/images/Software_Tools.gif?raw=true" width=5%> Software & Tools
 
 <p align="center">
   &emsp;
@@ -240,10 +232,8 @@
 <!-- ------------------------------------------ -->
 
 <!-- IDEs -->
-<div>
-	<img src = "./assets/images/IDEs.gif?raw=true" width=5%>
-	<span> IDEs </span>
-</div>
+
+### <img src = "./assets/images/IDEs.gif?raw=true" width=5%> IDEs
 
 <p align="center">
   &emsp;
@@ -259,10 +249,8 @@
 <!-- ------------------------------------------ -->
 
 <!-- Operating Systems -->
-<div>
-	<img src = "./assets/images/os.gif?raw=true" width=5%>
-	<span> Operating Systems </span>
-</div>
+
+### <img src = "./assets/images/os.gif?raw=true" width=5%> Operating Systems
 
 <p align="center">
   &emsp;
