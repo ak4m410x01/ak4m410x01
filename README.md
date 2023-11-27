@@ -50,7 +50,7 @@
 - :computer: I am a **`CTF Player`** at [Portswigger](https://portswigger.net/), [Cybertalents](https://cybertalents.com/members/ak4m410x01/profile), [TryHackMe](https://tryhackme.com/p/3bdullahkama1).
 - :computer: I am a **`Competitive Programmer`** at [ECPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/3bdullahkama1), [Leetcode](https://leetcode.com/ak4m410x01), [HackerRank](https://www.hackerrank.com/ak4m410x01).
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](./assets/doc/Abdullah_Kamal_Resume.pdf).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](./assets/docs/Abdullah_Kamal_Resume.pdf).
 
 <br />
 <!-- =============================== -->
