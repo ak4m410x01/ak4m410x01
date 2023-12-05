@@ -11,7 +11,7 @@
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=950&size=50&pause=950&color=2139ff&center=true&vCenter=true&width=700&height=90&lines=Software+Engineer;Backend+Developer;Always+learning+new+technologies" alt="Job Title" />
+		<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=950&size=50&pause=950&color=2139ff&center=true&vCenter=true&width=700&height=90&lines=Software+Engineer;Backend+Developer;Always+learning+new+things" alt="Job Title" />
 	</a>
 </div>
 <br />
