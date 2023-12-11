@@ -47,7 +47,6 @@
 <br />
 
 - :school: I am a **`Student`** at [Faculty of Computers & AI](https://fci.sohag-univ.edu.eg/main/) at [Sohag University](https://www.sohag-univ.edu.eg/ar/).
-- :computer: I am a **`CTF Player`** at [Portswigger](https://portswigger.net/), [Cybertalents](https://cybertalents.com/members/ak4m410x01/profile), [TryHackMe](https://tryhackme.com/p/3bdullahkama1).
 - :computer: I am a **`Competitive Programmer`** at [ECPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/3bdullahkama1), [Leetcode](https://leetcode.com/ak4m410x01), [HackerRank](https://www.hackerrank.com/ak4m410x01).
 - :nerd_face: Always `learning new technologies`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](./assets/docs/Abdullah_Kamal_Resume.pdf).
@@ -58,23 +57,6 @@
 <!-- =============================== -->
 
 ---
-
-<!-- CTF Profiles -->
-
-## <img src="./assets/images/ctf_player.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" style="border-radius:12%" width="10%"> My CTF Profiles
-
-<div align="center" width="100%">
-	<a href="@ak4m410x01">
-	<img src="./assets/images/portswigger.png" alt="PortSwigger" width="10%"/></a>&emsp;&emsp; 
-	<a href="https://cybertalents.com/members/ak4m410x01/profile">
-	<img src="./assets/images/cybertalents.png" alt="CyberTalents" width="10%"/></a>&emsp;&emsp; 
-	<a href="https://tryhackme.com/p/3bdullahkama1">
-	<img src="./assets/images/tryhackme.png" alt="TryHackMe" width="10%" /></a>     
-</div>
-
-<br />
-
-<!-- =============================== -->
 
 <!-- Competitive Programming Profiles -->
 
@@ -110,10 +92,10 @@
   <a href="https://www.linkedin.com/in/ak4m410x01/">
   <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&emsp;
 	
-  <a href="https://github.com/ak4m410x01">
+  <a href="https://github.com/ak4m410x01/">
   <img src="https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white" alt="GitHub"/></a>&emsp;
 	
-  <a href="https://t.me/ak4m410x01">
+  <a href="https://t.me/ak4m410x01/">
   <img src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
@@ -336,7 +318,6 @@
 </details>
 
 <!-- --- -->
-
 
 <h2> 🐍 A Snake Eating my Contributions Graph </h2>
 
