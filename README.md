@@ -47,7 +47,7 @@
 <br />
 
 - :school: I am a **`Student`** at [Faculty of Computers & AI](https://fci.sohag-univ.edu.eg/main/) at [Sohag University](https://www.sohag-univ.edu.eg/ar/).
-- :computer: I am a **`Competitive Programmer`** at [ECPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/3bdullahkama1), [Leetcode](https://leetcode.com/ak4m410x01), [HackerRank](https://www.hackerrank.com/ak4m410x01).
+- :computer: I am a **`Competitive Programmer`** at [ECPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/ak4m410x01), [Leetcode](https://leetcode.com/ak4m410x01), [HackerRank](https://www.hackerrank.com/ak4m410x01).
 - :nerd_face: Always `learning new technologies`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](./assets/docs/Abdullah_Kamal_Resume.pdf).
 - :boom: You can visit [Portfolio](https://ak4m410x01.github.io/Portfolio/).
