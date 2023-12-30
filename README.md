@@ -27,54 +27,56 @@
 	<img src="https://komarev.com/ghpvc/?username=ak4m410x01&label=Profile%20Views&color=blue&labelColor=000000&style=flat" alt="ak4m410x01" width="19%"/>
 </div>
 
-<!-- =============================== -->
-
-<!-- Cover Image -->
-
-<div align="center">
-	<img src="./assets/images/cover_img_1.jpg" width="100%" height="50%">
-	<img src="./assets/images/cover_img_2.jpg" width="100%" height="20%">
-</div>
-
-<!-- =============================== -->
-
 <!-- About me -->
 
 ## <img src="./assets/images/about_me.gif" width="6.8%" /> About me
 
 <img align="right" src="./assets/images/right_side.gif" width="33%">
 
-<br />
+- :student: I am a Computer Science student.
 
-- :school: I am a **`Student`** at [Faculty of Computers & AI](https://fci.sohag-univ.edu.eg/main/) at [Sohag University](https://www.sohag-univ.edu.eg/ar/).
-- :computer: I am a **`Competitive Programmer`** at [ECPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/ak4m410x01), [Leetcode](https://leetcode.com/ak4m410x01), [HackerRank](https://www.hackerrank.com/ak4m410x01).
-- :nerd_face: Always `learning new technologies`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](./assets/docs/Abdullah_Kamal_Resume.pdf).
-- :boom: You can visit [Portfolio](https://ak4m410x01.github.io/Portfolio/).
+- :school: I am currently learning Backend Development.
 
-<br />
+- :computer: I am a competitive programmer at [ICPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/ak4m410x01), [LeetCode](https://leetcode.com/ak4m410x01/), [HackerRank](https://www.hackerrank.com/profile/ak4m410x01).
 
-<!-- =============================== -->
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/ak4m410x01/CV/blob/main/Abdullah_Kamal_CV.pdf).
+- :boom: You can visit [MY WEBSITE](https://ak4m410x01.github.io/Portfolio/).
+
+##### Programming Languages:
+
+- Python, PHP, Java, Script, C++, HTML, Bash Scripting
+
+##### Database:
+
+- SQL, SQLite, MySQL, PostgreSQL, Redis, MongoDB, ORM
+
+##### Web Frameworks:
+
+- Django, Django Rest Framework, Flask, FastAPI
+
+##### Conceptual Knowledge:
+
+- OOP, Data Structures, Algorithms, SDLC, Agile Methodology, SOLID Principles, Git Flow, RESTful API, MicroServices Architecture
+
+##### Tools:
+
+- Git, GitHub, Docker, Kubernates, Jira, Postman
+
+##### Cloud Platform:
+
+- Heroku, AWS
+
+##### Operating Systems
+
+- Linux, Windows
+
+##### Soft Skills:
+
+- Problem Solving, Critical Thinking, Clean Code, Code Review, Debugging, Testing, Documentation
+
+  <!-- =============================== -->
 
 ---
-
-<!-- Competitive Programming Profiles -->
-
-## <img src="./assets/images/competitive_programmer.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" style="border-radius:15%" width=8%> My Competitive Programming Profiles
-
-<div align="center" width=100%>
-  <a href="https://codeforces.com/profile/3bdullahkama1">
-  <img src="./assets/images/codeforces_profile_icon.png" alt="CodeForces" width="6%"/></a>&emsp;&emsp;&emsp; 
-	
-  <a href="https://leetcode.com/ak4m410x01/">
-  <img src="./assets/images/leetcode_profile_icon.png" alt="LeetCode" width="%6"/></a>&emsp;&emsp;&emsp; 
-	
-  <a href="https://hackerrank.com/ak4m410x01/">
-  <img src="./assets/images/hackerrank_profile_icon.png" alt="LeetCode" width="%6"/></a>&emsp;&emsp;&emsp; 
-	
-  <a href="https://icpc.global/ICPCID/RYCWA1HDIYZ3">
-  <img src="./assets/images/icpcglobal_profile_icon.png" alt="ICPC Global" width="6%" /></a>     
-</div>
 
 <!-- =============================== -->
 
@@ -83,9 +85,7 @@
 ## <img src="./assets/images/contact_with_me.gif?raw=true" width="10%"> Contact with me
 
 <p align="center">
-  <a href="mailto:abdullah.kamal0x01@outlook.com">
-  <img img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?&logo=gmail&logoColor=white" alt="Outlook"/></a>&emsp;
-	
+
   <a href="mailto:abdullah.kamal0x01@gmail.com">
   <img img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" alt="Gmail"/></a>&emsp;
 	
@@ -101,170 +101,6 @@
 
 <!-- =============================== -->
 
-<!-- Skills -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
-
-<!-- Programming Languages -->
-
-### <img src = "./assets/images/Programming_Languages.gif?raw=true" width=5%> Programming Languages
-
-<p align="center"> 
-	<a href="https://www.cprogramming.com/" target="_blank"> 
-		<img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?&logo=c&logoColor=white">
-	</a>
-	&emsp;
-	<a href="https://www.w3schools.com/cpp/" target="_blank"> 
-		<img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?&logo=c%2B%2B&logoColor=white">
-	</a>
-	&emsp;
-	<a href="https://www.python.org" target="_blank">
-		<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&logo=python&logoColor=white">
-	</a>
-	&emsp;
-	<a href="https://www.php.net" target="_blank">
-		<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white">
-	</a>
-</p>
-
-<!-- ------------------------------------------ -->
-
-<!--  -->
-
-### <img src = "./assets/images/front_end.gif?raw=true" width=5%> Frontend Development
-
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&logo=html5&logoColor=white">
-  </a>&emsp;
-  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?&logo=css3&logoColor=white">
-  </a>
-</p>
-
-<!-- ------------------------------------------ -->
-
-<!--  -->
-
-### <img src = "./assets/images/backend.gif?raw=true" width=5%> Backend Development
-
-<p align="center"> 
-   <a href="https://www.php.net" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white">
-  </a>   
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&logo=python&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white">
-  </a>
-</p>
-<!-- ------------------------------------------ -->
-
-<!-- Database -->
-
-### <img src = "./assets/images/database.gif?raw=true" width=5%> Database
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.mysql.com/" target="_blank"> 
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://mariadb.org/" target="_blank">
-    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
-  </a>
-</p>
-<!-- ------------------------------------------ -->
-
-<!-- Software & Tools -->
-
-### <img src = "./assets/images/Software_Tools.gif?raw=true" width=5%> Software & Tools
-
-<p align="center">
-  &emsp;
-    <a href="https://git-scm.com/">
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="https://github.com/">
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.google.com/sheets/about/">
-    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.markdownguide.org/">
-    <img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="https://stackoverflow.com/">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.geeksforgeeks.org/">
-    <img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.json.org/json-en.html">
-    <img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?&logo=json&logoColor=white"></a>
-</p>
-<!-- ------------------------------------------ -->
-
-<!-- IDEs -->
-
-### <img src = "./assets/images/IDEs.gif?raw=true" width=5%> IDEs
-
-<p align="center">
-  &emsp;
-    <a href="https://code.visualstudio.com/">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.jetbrains.com/">
-    <img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="https://www.vim.org/">
-    <img alt="VIM" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&logo=vim&logoColor=white" /></a>
-</p>
-<!-- ------------------------------------------ -->
-
-<!-- Operating Systems -->
-
-### <img src = "./assets/images/os.gif?raw=true" width=5%> Operating Systems
-
-<p align="center">
-  &emsp;
-    <a href="https://www.linux.org/pages/download/">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="https://www.debian.org/">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white"></a>
-  &emsp;
-    <a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="https://kali.org/">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.redhat.com/en">
-    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.fedoraproject.org/">
-    <img src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.centos.org/">
-    <img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat&logo=CentOS&logoColor=white"></a>
-  &emsp;
-    <a href="https://manjaro.org/">
-    <img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?style=flat&logo=manjaro&logoColor=white" /></a>
-  &emsp;
-    <a href="https://www.microsoft.com/en-us/software-download/windows11/">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
-</p>
-
-<br />
 <!-- ------------------------------------------ -->
 
 ---
