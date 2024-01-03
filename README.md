@@ -42,6 +42,30 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/ak4m410x01/CV/blob/main/Abdullah_Kamal_CV.pdf).
 - :boom: You can visit [MY WEBSITE](https://ak4m410x01.github.io/Portfolio/).
 
+
+<!-- =============================== -->
+
+<!-- Contact with me -->
+
+## <img src="./assets/images/contact_with_me.gif?raw=true" width="10%"> Contact with me
+
+<p align="center">
+
+  <a href="mailto:abdullah.kamal0x01@gmail.com">
+  <img img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" alt="Gmail"/></a>&emsp;
+	
+  <a href="https://www.linkedin.com/in/ak4m410x01/">
+  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&emsp;
+	
+  <a href="https://github.com/ak4m410x01/">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white" alt="GitHub"/></a>&emsp;
+	
+  <a href="https://t.me/ak4m410x01/">
+  <img src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
+
+<!-- =============================== -->
+
 ## My Skills
 
 ```json
@@ -97,28 +121,7 @@
 
 ---
 
-<!-- =============================== -->
-
-<!-- Contact with me -->
-
-## <img src="./assets/images/contact_with_me.gif?raw=true" width="10%"> Contact with me
-
-<p align="center">
-
-  <a href="mailto:abdullah.kamal0x01@gmail.com">
-  <img img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" alt="Gmail"/></a>&emsp;
-	
-  <a href="https://www.linkedin.com/in/ak4m410x01/">
-  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&emsp;
-	
-  <a href="https://github.com/ak4m410x01/">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white" alt="GitHub"/></a>&emsp;
-	
-  <a href="https://t.me/ak4m410x01/">
-  <img src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>
-
-<!-- =============================== -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak4m410x01&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ------------------------------------------ -->
 
