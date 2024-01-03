@@ -42,39 +42,58 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/ak4m410x01/CV/blob/main/Abdullah_Kamal_CV.pdf).
 - :boom: You can visit [MY WEBSITE](https://ak4m410x01.github.io/Portfolio/).
 
-##### Programming Languages:
+## My Skills
 
-- Python, PHP, Java, Script, C++, HTML, Bash Scripting
+```json
+{
+    "skills": [
+        // Programming Languages
+        // ---------------------
+        "Python",                 "C++",                        "Java Script",
+        "PHP",                    "Bash Scripting",   
+        // ====================================================================================
+        // Database
+        // --------
+        "SQL",                    "SQLite",                     "MySQL",
+        "PostgreSQL",             "MongoDB",                    "Redis",
+        "ORM",
+        // ====================================================================================
+        // Frameworks
+        // ----------
+        "Django",                 "Flask",                      "FastAPI",
+        "Django Rest Framework",
+        // ====================================================================================
+        // Conceptual Knowledge
+        // --------------------
+        "OOP",                    "Data Structures",            "Algorithms",
+        "Agile Methodology",      "SOLID Principles",           "CI/CD",
+        "Git Flow",               "RESTful APIs",               "MicroServices Architecture",
+        // ====================================================================================
+        // Tools
+        // -----
+        "Git",                    "GitHub",                     "Docker",
+        "Kubernates",             "Jira",                       "Postman",
+        // ====================================================================================
+        // Cloud Platforms
+        // ---------------
+        "Heroku",                 "AWS",
+        // ====================================================================================
+        // Operating Systems
+        // -----------------
+        "Linux",                  "Windows",
+        // ====================================================================================
+        // Soft Skills
+        // -----------
+        "Clean Code",             "Code Review",                "Debugging",
+        "Testing",                "Documentation",              "Problem Solving",
+        "Critical Thinking"
+    ]
+}
 
-##### Database:
 
-- SQL, SQLite, MySQL, PostgreSQL, Redis, MongoDB, ORM
+```
 
-##### Web Frameworks:
-
-- Django, Django Rest Framework, Flask, FastAPI
-
-##### Conceptual Knowledge:
-
-- OOP, Data Structures, Algorithms, SDLC, Agile Methodology, SOLID Principles, Git Flow, RESTful API, MicroServices Architecture
-
-##### Tools:
-
-- Git, GitHub, Docker, Kubernates, Jira, Postman
-
-##### Cloud Platform:
-
-- Heroku, AWS
-
-##### Operating Systems
-
-- Linux, Windows
-
-##### Soft Skills:
-
-- Problem Solving, Critical Thinking, Clean Code, Code Review, Debugging, Testing, Documentation
-
-  <!-- =============================== -->
+<!-- =============================== -->
 
 ---
 
