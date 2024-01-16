@@ -79,6 +79,12 @@
 
  - :computer: **I am a Dynamic Software Engineer and Backend Developer with a robust computer science foundation, excelling in Web and API Development.**
  
+ - :student: **Proficient in crafting bespoke Python code to extend Django applications, fostering collaborative environments with fellow developers, and seamlessly integrating third-party services and APIs.**
+ 
+ - :blue_book: **Renowned for optimizing development processes, reducing timelines, and elevating overall code quality.**
+ 
+ - :fire: **Committed to delivering impactful solutions at the intersection of innovation and efficiency.**
+ 
  - :technologist: **Proficient in Python, C++, HTML, and JavaScript specializing in Django, Flask, and FastAPI.**
  
  - :thinking: **Expert in crafting RESTful APIs and implementing Microservices architecture.**
