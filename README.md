@@ -93,7 +93,7 @@
  
  - :trophy: **Adept in Git, GitHub, and Gitflow, committed to Agile Methodology and Scrum practices.**
  
- - :student: **Adheres to SOLID principles and is proficient in Linux, Docker, Kubernetes, and Bash scripting.**
+ - :student: **Adheres to SOLID principles and is proficient in Linux, Docker, Kubernetes, Jenkins, and Bash scripting.**
  
  - :cloud: **Experienced in the cloud (Vercel, Heroku, Digital Ocean, AWS), dedicated to Clean Code, meticulous Code Review, and adept problem-solving with a critical mindset.**
  
