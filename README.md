@@ -75,24 +75,29 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- Software Engineer
-  - Backend
-    - Python
-    - Django
-    - Flask
-  - Database
-    - MySQL
-    - PostgreSQL
-  - Devops
-    - Docker
-    - Nginx
-    - CI & CD
-    - Jenkins
-  - Cloud
-    - Vecel
-    - Heroku
-    - Digital Ocean
-    - AWS
+
+
+ - :computer: **I am a Dynamic Software Engineer and Backend Developer with a robust computer science foundation, excelling in Web and API Development.**
+ 
+ - :technologist: **Proficient in Python, C++, HTML, and JavaScript specializing in Django, Flask, and FastAPI.**
+ 
+ - :thinking: **Expert in crafting RESTful APIs and implementing Microservices architecture.**
+ 
+ - :school: **Well-versed in networking and database management (SQL, SQLite, MySQL, PostgreSQL, Redis, MongoDB) with ORM for efficient data handling.**
+ 
+ - :trophy: **Adept in Git, GitHub, and Gitflow, committed to Agile Methodology and Scrum practices.**
+ 
+ - :student: **Adheres to SOLID principles and is proficient in Linux, Docker, Kubernetes, and Bash scripting.**
+ 
+ - :cloud: **Experienced in the cloud (Vercel, Heroku, Digital Ocean, AWS), dedicated to Clean Code, meticulous Code Review, and adept problem-solving with a critical mindset.**
+ 
+ - :book: **A thorough tester with a meticulous documentation approach, continuously embracing new technologies.**
+ 
+ - :trophy: **Passionate about working on large projects.**
+
+ - :thinking: **I’m currently open for a new `job opportunity`, this is** [MY RESUME](https://github.com/ak4m410x01/CV/blob/main/Abdullah_Kamal_CV.pdf).
+ 
+ - :boom: **You can visit** [MY WEBSITE](https://ak4m410x01.github.io/Portfolio/).
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
