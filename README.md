@@ -95,7 +95,7 @@
  
  - :trophy: **Passionate about working on large projects.**
 
- - :thinking: **I’m currently open for a new `job opportunity`, this is** [MY RESUME](https://github.com/ak4m410x01/CV/blob/main/Abdullah_Kamal_CV.pdf).
+ - :thinking: **I’m currently open for a new `job opportunity`, this is** [MY RESUME](https://drive.google.com/file/d/1klPNTj8ZyD9IDCCMTtqCIvqKvwLN4eXt/view).
  
  - :boom: **You can visit** [MY WEBSITE](https://ak4m410x01.github.io/Portfolio/).
 
