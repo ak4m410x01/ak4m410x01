@@ -28,7 +28,7 @@
    <a href="https://t.me/ak4m410x01" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="ak4m410x01"/>
  </a>
-   <a href="https://wa.me/ak4m410x01" target="_blank">
+   <a href="http://wa.me/201147301642" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="ak4m410x01"/>
  </a>
  <a href="https://leetcode.com/ak4m410x01/" target="_blank">
