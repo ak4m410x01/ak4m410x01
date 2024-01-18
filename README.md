@@ -31,13 +31,13 @@
    <a href="https://wa.me/ak4m410x01" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="ak4m410x01"/>
  </a>
- <a href="https://wa.me/ak4m410x01" target="_blank">
+ <a href="https://leetcode.com/ak4m410x01/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="ak4m410x01"/>
  </a>
- <a href="https://wa.me/ak4m410x01" target="_blank">
+ <a href="https://codeforces.com/profile/ak4m410x01" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="ak4m410x01"/>
  </a>
- <a href="https://wa.me/ak4m410x01" target="_blank">
+ <a href="https://www.hackerrank.com/profile/ak4m410x01" target="_blank">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="ak4m410x01"/>
  </a>
 </p>
