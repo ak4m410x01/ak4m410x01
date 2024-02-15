@@ -153,7 +153,7 @@
 - DevOps Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,jenkins,nginx" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,nginx" />
   </a>
 </p>
 
