@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Software Engineer | Backend Developer from <b>Egypt</b> 」
+    「 I am a Software Engineer | Backend Developer | .NET Developer from <b>Egypt</b> 」
     <br>
     <br>
   </samp>
@@ -21,6 +21,9 @@
  </a>
  <a href="mailto:abdullah.kamal0x01@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ak4m410x01"/>
+ </a>
+ <a href="mailto:abdullah.kamal0x01@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="ak4m410x01"/>
  </a>
   <a href="https://linkedin.com/in/ak4m410x01" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ak4m410x01"/>
@@ -69,8 +72,7 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+
 </div>
 
 <br>
@@ -79,37 +81,27 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+- :computer: **I am a Dynamic Software Engineer and Backend Developer with a robust computer science foundation, excelling in Web and API Development.**
 
+- :student: **Experienced .NET Developer is proficient in C# and ASP.NET Core with a strong foundation in software development principles.**
 
- - :computer: **I am a Dynamic Software Engineer and Backend Developer with a robust computer science foundation, excelling in Web and API Development.**
- 
- - :student: **Proficient in crafting bespoke Python code to extend Django applications, fostering collaborative environments with fellow developers, and seamlessly integrating third-party services and APIs.**
- 
- - :blue_book: **Renowned for optimizing development processes, reducing timelines, and elevating overall code quality.**
- 
- - :fire: **Committed to delivering impactful solutions at the intersection of innovation and efficiency.**
- 
- - :technologist: **Proficient in Python, C++, HTML, and JavaScript specializing in Django, Flask, and FastAPI.**
- 
- - :thinking: **Expert in crafting RESTful APIs and implementing Microservices architecture.**
- 
- - :school: **Well-versed in networking and database management (SQL, SQLite, MySQL, PostgreSQL, Redis, MongoDB) with ORM for efficient data handling.**
- 
- - :trophy: **Adept in Git, GitHub, and Gitflow, committed to Agile Methodology and Scrum practices.**
- 
- - :student: **Adheres to SOLID principles and is proficient in Linux, Docker, Kubernetes, Jenkins, and Bash scripting.**
- 
- - :computer: **I am a Competitive Programmer at [ECPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/3bdullahkama1), [Leetcode](https://leetcode.com/ak4m410x01), [HackerRank](https://www.hackerrank.com/ak4m410x01)**.
- 
- - :cloud: **Experienced in the cloud (Vercel, Heroku, Digital Ocean, AWS), dedicated to Clean Code, meticulous Code Review, and adept problem-solving with a critical mindset.**
- 
- - :book: **A thorough tester with a meticulous documentation approach, continuously embracing new technologies.**
- 
- - :trophy: **Passionate about working on large projects.**
+- :blue_book: **Skilled in building web applications, RESTful APIs, and database integration.**
 
- - :thinking: **I’m currently open for a new `job opportunity`, this is** [MY RESUME](https://drive.google.com/file/d/1klPNTj8ZyD9IDCCMTtqCIvqKvwLN4eXt/view)**.
- 
- - :boom: **You can visit [MY WEBSITE](https://ak4m410x01.github.io/Portfolio/)**.
+- :fire: **Committed to delivering impactful solutions at the intersection of innovation and efficiency.**
+
+- :technologist: **Dedicated to continuous learning and contributing to collaborative team environments.**
+
+- :thinking: **Committed to delivering high-quality, scalable solutions that meet client needs and exceed expectations..**
+
+- :school: **Well-versed in networking and database management (SQL, SQL Server, PostgreSQL) with ORM for efficient data handling.**
+
+- :computer: **I am a Competitive Programmer at [ECPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/ak4m410x01), [Leetcode](https://leetcode.com/ak4m410x01), [HackerRank](https://www.hackerrank.com/ak4m410x01)**.
+
+- :trophy: **Passionate about working on large projects.**
+
+- :thinking: **I’m currently open for a new `job opportunity`, this is** [MY RESUME](https://drive.google.com/file/d/1klPNTj8ZyD9IDCCMTtqCIvqKvwLN4eXt/view).
+
+- :boom: **You can visit [MY WEBSITE](https://ak4m410x01.github.io/Portfolio/)**.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -118,49 +110,35 @@
 - Programming Language
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,py" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,js" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,django,flask" />
+    <img src="https://skillicons.dev/icons?i=dotnet,django" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,redis" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash" />
-  </a>
-</p>
-
-- DevOps Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,nginx" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,heroku,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,linux,bash" />
   </a>
 </p>
 
