@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Software Engineer | Backend Developer | .NET Developer from <b>Egypt</b> 」
+    「 I'm a Software Engineer | Backend Developer | .NET Developer from <b>Egypt</b> 」
     <br>
     <br>
   </samp>
