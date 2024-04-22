@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
- <a href="https://ak4m410x01.github.io/Portfolio/" target="_blank">
+ <a href="https://ak4m410x01.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="ak4m410x01"/>
  </a>
  <a href="mailto:abdullah.kamal0x01@gmail.com" target="_blank">
@@ -101,7 +101,7 @@
 
 - :thinking: **I’m currently open for a new `job opportunity`, this is** [MY RESUME](https://drive.google.com/file/d/1klPNTj8ZyD9IDCCMTtqCIvqKvwLN4eXt/view).
 
-- :boom: **You can visit [MY WEBSITE](https://ak4m410x01.github.io/Portfolio/)**.
+- :boom: **You can visit [MY WEBSITE](https://ak4m410x01.vercel.app)**.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
