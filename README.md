@@ -1,17 +1,9 @@
+<!-- Animated Header -->
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 
-<h3 align="center">
-  <samp>&gt; Hey There! 👋 , I'm Abdullah Kamal</samp>
-</h3>
-
-<p align="center"> 
-  <samp>
-    <br>
-    「 Full Stack .NET Developer | 2+ Years Experience | Back-End Specialist 」
-    <br><br>
-  </samp>
-</p>
+<h2 align="center">👋 Hey, I'm <span style="color:#f85d7f">Abdullah Kamal</span></h2>
+<h4 align="center">🚀 Full Stack .NET Developer | 2+ Years Experience | Back-End Specialist</h4>
 
 ---
 
@@ -25,66 +17,65 @@
  <a href="http://wa.me/201040534161"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  <a href="https://leetcode.com/ak4m410x01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
  <a href="https://codeforces.com/profile/ak4m410x01"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
- <a href="https://www.hackerrank.com/ak4m410x01"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 💻 **Full Stack .NET Developer** with 2+ years of experience in building robust, scalable applications.
-- ⚡ Specializing in **C#, ASP.NET Core MVC, RESTful APIs**, and scalable backend architecture.
-- 🚀 Worked on **ERP systems, e-commerce APIs, and real-time applications**.
-- 🔒 Strong background in **database optimization, performance tuning, and security best practices**.
+- 💻 **Full Stack .NET Developer** with 2+ years of experience building scalable and secure applications.
+- 🔥 Specialized in **C#, ASP.NET Core MVC, RESTful APIs**, and scalable backend architecture.
+- ⚡ Experienced in **ERP systems, e-commerce platforms, and real-time apps**.
+- 🔒 Strong in **performance optimization, database tuning, and security**.
 - ☁️ Skilled in **Docker, Kubernetes, Azure, AWS**, and CI/CD pipelines.
-- 📚 Competitive Programmer — [ICPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/ak4m410x01), [Leetcode](https://leetcode.com/ak4m410x01).
+- 🏆 Competitive Programmer — [ICPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/ak4m410x01), [Leetcode](https://leetcode.com/ak4m410x01).
 - 📄 [**My Resume**](https://drive.google.com/file/d/1klPNTj8ZyD9IDCCMTtqCIvqKvwLN4eXt/view) | 🌍 [**My Website**](https://ak4m410x01.vercel.app)
 
 ---
 
 ## 🎓 Education
 
-- **.NET Developer** — Digital Egypt Pioneers Initiative *(05/2024 – 11/2024)*
-- **B.Sc. in Computer Science** — Faculty of Computers and AI, Sohag University *(10/2020 – 06/2024)*
+🎯 **.NET Developer** — Digital Egypt Pioneers Initiative *(05/2024 – 11/2024)*  
+🎯 **B.Sc. in Computer Science** — Faculty of Computers and AI, Sohag University *(10/2020 – 06/2024)*
 
 ---
 
 ## 💼 Work Experience
 
-- **Full Stack Developer (Military Service)** — Egyptian Armed Forces *(05/2025 – Present)*  
-  Developed .NET systems during military service and part-time ERP/web apps for National Quality.
+**💂 Full Stack Developer (Military Service)** — Egyptian Armed Forces *(05/2025 – Present)*  
+> Developed .NET systems during military service and part-time ERP/web apps for National Quality.
 
-- **Full Stack Developer** — National Quality Stores Foundation of Information Technology *(10/2024 – Present)*  
-  Collaborated on ERP systems, optimizing web apps and databases for performance and security.
+**🏢 Full Stack Developer** — National Quality Stores Foundation *(10/2024 – Present)*  
+> Built and optimized ERP systems, web apps, and databases for performance and security.
 
-- **.NET Developer** — Soft Forte *(09/2024 – 05/2025)*  
-  Built web applications with optimized performance and strong security.
+**💻 .NET Developer** — Soft Forte *(09/2024 – 05/2025)*  
+> Developed secure, high-performance web applications.
 
-- **Back-End Developer** — Upwork *(07/2024 – Present)*  
-  Built optimized ASP.NET Core APIs, boosting performance and client satisfaction.
+**🌍 Back-End Developer** — Upwork *(07/2024 – Present)*  
+> Built optimized ASP.NET Core APIs, boosting performance and client satisfaction.
 
 ---
 
 ## 🛠 Skills
 
-**Languages:** C++, C#, Python, JavaScript  
-**Back-End:** ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core, Dapper, Mediator, CQRS, AutoMapper, Fluent Validation, gRPC, SignalR  
-**Front-End:** HTML, CSS, Bootstrap  
-**Databases:** SQL Server, PostgreSQL, Redis  
-**Tools:** Git, GitHub, Docker, Kubernetes, IIS, Azure, AWS, Postman, Apidog  
-**Concepts:** OOP, Data Structures, Algorithms, SOLID, Design Patterns, Clean Architecture, REST API Design, Agile/Scrum
+**Languages:** `C++` `C#` `Python` `JavaScript`  
+**Backend:** `ASP.NET Core MVC` `ASP.NET Core Web API` `Entity Framework Core` `Dapper` `Mediator` `CQRS` `AutoMapper` `SignalR` `gRPC`  
+**Frontend:** `HTML` `CSS` `Bootstrap`  
+**Databases:** `SQL Server` `PostgreSQL` `Redis`  
+**DevOps & Tools:** `Git` `Docker` `Kubernetes` `Azure` `AWS` `IIS` `Postman` `Apidog`  
+**Concepts:** `OOP` `SOLID` `Design Patterns` `Clean Architecture` `REST API Design` `Agile`
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
 - **[Sakany](https://github.com/ak4m410x01/Sakany)** — API platform connecting customers with realtors. *(C#, ASP.NET Core, SQL Server, Clean Architecture)*
-- **[E-Commerce API](https://github.com/ak4m410x01/ECommerceAPI)** — Full-featured e-commerce backend with payment integration. *(C#, ASP.NET Core, EF Core, Docker)*
-- **[Meals Ordering API](https://github.com/ak4m410x01/MealsOrderingApplication)** — Online meal ordering backend. *(C#, ASP.NET Core, SQL Server)*
-- **[Examination Platform API](https://github.com/ak4m410x01/Examination_Platform_API)** — Secure online exam platform with Docker isolation. *(Python, Django, PostgreSQL)*
-- **[Gym Management API](https://github.com/ak4m410x01/Gym_Management_Application_API)** — Gym management API with role-based access. *(Python, Django, PostgreSQL)*
+- **[E-Commerce API](https://github.com/ak4m410x01/ECommerceAPI)** — Full-featured e-commerce backend with payment integration.
+- **[Meals Ordering API](https://github.com/ak4m410x01/MealsOrderingApplication)** — Online meal ordering backend.
+- **[Examination Platform API](https://github.com/ak4m410x01/Examination_Platform_API)** — Secure online exam platform with Docker isolation.
+- **[Gym Management API](https://github.com/ak4m410x01/Gym_Management_Application_API)** — Gym management API with role-based access.
 
 ---
 
