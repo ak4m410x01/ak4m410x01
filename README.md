@@ -71,7 +71,7 @@
 
 ## 🚀 Projects
 
-- **[ROCSystem]()** — Internal office management system for the Egyptian Reserve Officers College, streamlining workflows with secure access.
+- **[ROCSystem]()** — Internal office management system for the Egyptian Reserve Officers College.
 - **[ERP Systems]()** — Scalable ERP web apps for finance, HR, inventory, and sales with role-based access and real-time reporting.
 - **[LBSNEE]()** — Platform connecting customers with local clothing stores for seamless shopping and store management.
 - **[Sakany](https://github.com/ak4m410x01/Sakany)** — API platform connecting customers with realtors. *(C#, ASP.NET Core, SQL Server, Clean Architecture)*
