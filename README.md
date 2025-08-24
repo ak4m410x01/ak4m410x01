@@ -44,7 +44,7 @@
 
 ## 💼 Work Experience
 
-**💂 Full Stack Developer (Military Service)** — Egyptian Armed Forces *(05/2025 – Present)*  
+**💂 Full Stack Developer (Military Service)** — Egyptian Armed Forces *(04/2025 – Present)*  
 > Developed .NET systems during military service and part-time ERP/web apps for National Quality.
 
 **🏢 Full Stack Developer** — National Quality Stores Foundation *(10/2024 – Present)*  
