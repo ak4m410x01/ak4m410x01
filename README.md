@@ -3,7 +3,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 
 <h2 align="center">👋 Hey, I'm <span style="color:#f85d7f">Abdullah Kamal</span></h2>
-<h4 align="center">🚀 Full Stack .NET Developer | 2+ Years Experience | Back-End Specialist</h4>
+<h4 align="center">🚀 Full Stack .NET Developer | Building Scalable & Secure Systems</h4>
 
 ---
 
@@ -25,60 +25,67 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 💻 **Full Stack .NET Developer** with 2+ years of experience building scalable and secure applications.
-- 🔥 Specialized in **C#, ASP.NET Core MVC, RESTful APIs**, and scalable backend architecture.
-- ⚡ Experienced in **ERP systems, e-commerce platforms, and real-time apps**.
-- 🔒 Strong in **performance optimization, database tuning, and security**.
-- ☁️ Skilled in **Docker, Kubernetes, Azure, AWS**, and CI/CD pipelines.
-- 🏆 Competitive Programmer — [ICPC](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/ak4m410x01), [Leetcode](https://leetcode.com/ak4m410x01).
-- 📄 [**My Resume**](https://drive.google.com/file/d/1klPNTj8ZyD9IDCCMTtqCIvqKvwLN4eXt/view) | 🌍 [**My Website**](https://ak4m410x01.vercel.app)
+- 💻 **Full Stack .NET Developer** with **2+ years** of experience building robust business applications.  
+- 🔥 Expertise in **C#, ASP.NET Core MVC/API, EF Core, CQRS, and scalable architectures**.  
+- ☁️ Cloud-native developer: **Docker, Kubernetes, Azure, AWS, CI/CD pipelines**.  
+- ⚡ Designed **ERP, e-commerce, and mission-critical systems** with role-based security, real-time updates, and performance optimization.  
+- 🛡️ Strong in **database tuning, authentication/authorization, and clean code practices**.  
+- 🎯 Competitive Programmer: [ICPC Finalist](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/ak4m410x01), [LeetCode](https://leetcode.com/u/ak4m410x01).  
+- 📄 [**My Resume**](https://drive.google.com/file/d/1klPNTj8ZyD9IDCCMTtqCIvqKvwLN4eXt/view) | 🌍 [**My Website**](https://ak4m410x01.vercel.app)  
 
 ---
 
 ## 🎓 Education
 
-🎯 **.NET Developer** — Digital Egypt Pioneers Initiative *(05/2024 – 11/2024)*  
-🎯 **B.Sc. in Computer Science** — Faculty of Computers and AI, Sohag University *(10/2020 – 06/2024)*
+- 🎓 **B.Sc. Computer Science** — Sohag University *(2020 – 2024)*  
+- 🎯 **.NET Developer Program** — Digital Egypt Pioneers Initiative *(2024)*  
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-**💂 Full Stack Developer (Military Service)** — Egyptian Armed Forces *(04/2025 – Present)*  
-> Developed .NET systems during military service and part-time ERP/web apps for National Quality.
+**💂 Full Stack Developer (Military Service)** — *Egyptian Armed Forces* *(2025 – Present)*  
+> Designed and supported **mission-critical tech systems** for secure operations.
 
-**🏢 Full Stack Developer** — National Quality Stores Foundation *(10/2024 – Present)*  
-> Built and optimized ERP systems, web apps, and databases for performance and security.
+**🏢 Full Stack Developer** — *National Quality Stores Foundation* *(2024 – Present)*  
+> Enhanced **ERP systems**, optimized performance, and secured enterprise applications.  
 
-**💻 .NET Developer** — Soft Forte *(09/2024 – 05/2025)*  
-> Developed secure, high-performance web applications.
+**💻 .NET Developer** — *Soft Forte* *(2024 – 2025)*  
+> Built custom, secure, and high-performance web apps.  
 
-**🌍 Back-End Developer** — Upwork *(07/2024 – Present)*  
-> Built optimized ASP.NET Core APIs, boosting performance and client satisfaction.
-
----
-
-## 🛠 Skills
-
-**Languages:** `C++` `C#` `Python` `JavaScript`  
-**Backend:** `ASP.NET Core MVC` `ASP.NET Core Web API` `Entity Framework Core` `Dapper` `Mediator` `CQRS` `AutoMapper` `SignalR` `gRPC`  
-**Frontend:** `HTML` `CSS` `Bootstrap`  
-**Databases:** `SQL Server` `PostgreSQL` `Redis`  
-**DevOps & Tools:** `Git` `Docker` `Kubernetes` `Azure` `AWS` `IIS` `Postman` `Apidog`  
-**Concepts:** `OOP` `SOLID` `Design Patterns` `Clean Architecture` `REST API Design` `Agile`
+**🌍 Back-End Developer (Freelance)** — *Upwork* *(2024 – Present)*  
+> Delivered **custom .NET Core solutions**, fixing critical issues and improving reliability.  
 
 ---
 
-## 🚀 Projects
+## 🛠 Technical Skills
 
-- **[ROCSystem]()** — Internal office management system for the Egyptian Reserve Officers College.
-- **[ERP Systems]()** — Scalable ERP web apps for finance, HR, inventory, and sales with role-based access and real-time reporting.
-- **[LBSNEE]()** — Platform connecting customers with local clothing stores for seamless shopping and store management.
-- **[Sakany](https://github.com/ak4m410x01/Sakany)** — API platform connecting customers with realtors. *(C#, ASP.NET Core, SQL Server, Clean Architecture)*
-- **[E-Commerce API](https://github.com/ak4m410x01/ECommerceAPI)** — Full-featured e-commerce backend with payment integration.
-- **[Meals Ordering API](https://github.com/ak4m410x01/MealsOrderingApplication)** — Online meal ordering backend.
-- **[Examination Platform API](https://github.com/ak4m410x01/Examination_Platform_API)** — Secure online exam platform with Docker isolation.
-- **[Gym Management API](https://github.com/ak4m410x01/Gym_Management_Application_API)** — Gym management API with role-based access.
+**Core:** `C#` `ASP.NET Core` `MVC` `Web API` `LINQ` `EF Core` `Dapper` `CQRS` `Mediator` `AutoMapper` `SignalR` `gRPC`  
+**Frontend:** `HTML` `CSS` `Bootstrap` `JavaScript`  
+**Databases & Cache:** `SQL Server` `PostgreSQL` `Redis`  
+**DevOps & Tools:** `Git` `Docker` `Kubernetes` `Azure` `AWS` `NGINX` `HAProxy` `IIS`  
+**Concepts:** `Clean Architecture` `SOLID` `Design Patterns` `REST API Design` `Agile` `CI/CD`  
+**Soft Skills:** `Problem Solving` `Critical Thinking` `Clean Code` `Debugging` `Code Reviews`  
+
+---
+
+## 🚀 Highlighted Projects
+
+- **[ERP Systems]()** — Full enterprise ERP suite (finance, HR, inventory, sales) with automation and reporting.  
+- **[ROCSystem]()** — Role-based .NET system for Egyptian Reserve Officers College.  
+- **[LBSNEE]()** — Localized e-commerce API with Redis caching, Docker, and load balancing.  
+- **[Sakany](https://github.com/ak4m410x01/Sakany)** — Real estate API with JWT auth & Twilio integration.  
+- **[E-Commerce API](https://github.com/ak4m410x01/ECommerceAPI)** — E-commerce backend with OTP, payments, carts, and orders.  
+- **[Examination Platform API](https://github.com/ak4m410x01/Examination_Platform_API/)** — Secure Docker-isolated exam system.  
+- **[Gym Management API](https://github.com/ak4m410x01/Gym_Management_Application_API)** — Gym API with RBAC and membership management.  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Ranked Top 21/300+ Teams** — ICPC ECPC 2022  
+- 👨‍🏫 **Mentor** — ICPC Sohag Community  
+- 🎤 **Instructor** — ATHAR Team (taught Linux & networking to 50+ students)  
 
 ---
 
@@ -104,7 +111,7 @@
 
 ---
 
-## 💡 Quote
+## 💡 Favorite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
