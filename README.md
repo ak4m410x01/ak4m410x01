@@ -3,7 +3,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 
 <h2 align="center">👋 Hey, I'm <span style="color:#f85d7f">Abdullah Kamal</span></h2>
-<h4 align="center">🚀 Full Stack .NET Developer | Building Scalable & Secure Systems</h4>
+<h4 align="center">🚀 Software Engineer | Full Stack .NET Developer
 
 ---
 
@@ -11,6 +11,7 @@
 
 <p align="center">
  <a href="https://ak4m410x01.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+ <a href="https://ak4m410x01.notion.site/Portfolio-27e4b16f264280ea9e3dcc880c060ca1"><img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
  <a href="mailto:abdullah.kamal0x01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://linkedin.com/in/ak4m410x01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://t.me/ak4m410x01"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -31,7 +32,7 @@
 - ⚡ Designed **ERP, e-commerce, and mission-critical systems** with role-based security, real-time updates, and performance optimization.  
 - 🛡️ Strong in **database tuning, authentication/authorization, and clean code practices**.  
 - 🎯 Competitive Programmer: [ICPC Finalist](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/ak4m410x01), [LeetCode](https://leetcode.com/u/ak4m410x01).  
-- 📄 [**My Resume**](https://drive.google.com/file/d/1klPNTj8ZyD9IDCCMTtqCIvqKvwLN4eXt/view) | 🌍 [**My Website**](https://ak4m410x01.vercel.app)  
+- 📄 [**My Resume**](https://drive.google.com/file/d/1klPNTj8ZyD9IDCCMTtqCIvqKvwLN4eXt/view) | 🌍 [**My Website**](https://ak4m410x01.vercel.app) | 🗂️ [**My Portfolio**](https://ak4m410x01.notion.site/Portfolio-27e4b16f264280ea9e3dcc880c060ca1)  
 
 ---
 
