@@ -33,7 +33,7 @@
 - ⚡ Designed **ERP, e-commerce, and mission-critical systems** with role-based security, real-time updates, and performance optimization.  
 - 🛡️ Strong in **database tuning, authentication/authorization, and clean code practices**.  
 - 🎯 Competitive Programmer: [ICPC Finalist](https://icpc.global/ICPCID/RYCWA1HDIYZ3), [Codeforces](https://codeforces.com/profile/ak4m410x01), [LeetCode](https://leetcode.com/u/ak4m410x01).  
-- 📄 [**My Resume**](https://drive.google.com/file/d/1klPNTj8ZyD9IDCCMTtqCIvqKvwLN4eXt/view) | 🌍 [**My Website**](https://ak4m410x01.vercel.app) | 🗂️ [**My Portfolio**](https://ak4m410x01.notion.site/Portfolio-27e4b16f264280ea9e3dcc880c060ca1)  
+- 🌍 [**My Website**](https://ak4m410x01.vercel.app) | 🗂️ [**My Portfolio**](https://ak4m410x01.notion.site/Portfolio-27e4b16f264280ea9e3dcc880c060ca1)  | 📄 [**My Resume**](https://drive.google.com/file/d/1klPNTj8ZyD9IDCCMTtqCIvqKvwLN4eXt/view) |
 
 ---
 
