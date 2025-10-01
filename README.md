@@ -46,7 +46,7 @@
 
 ## 💼 Experience
 
-**💂 Full Stack Developer (Military Service)** — *Egyptian Armed Forces* *(2025 – Present)*  
+**💂 Full Stack Developer** — *Egyptian Armed Forces* *(2025 – Present)*  
 > Designed and supported **mission-critical tech systems** for secure operations.
 
 **🏢 Full Stack Developer** — *National Quality Stores Foundation* *(2024 – Present)*  
