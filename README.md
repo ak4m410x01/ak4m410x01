@@ -116,19 +116,19 @@ I'm a passionate **Full Stack .NET Developer** with **2+ years** of experience c
 
 ## 🚀 Featured Projects
 
-### **🏢 [ERP Systems](https://github.com/ak4m410x01/ERP-Systems)** 
-**Enterprise Resource Planning Suite** | `C#` `ASP.NET Core` `SQL Server` `Redis` `Docker` `Clean Architecture`
-- Developed comprehensive ERP solutions streamlining finance, HR, inventory, and sales operations across multiple departments
-- Implemented sophisticated role-based access control with granular permissions and audit trails
-- Integrated business process automation reducing manual work by 40% and improving operational efficiency
-- Designed real-time reporting and analytics dashboards enhancing strategic decision-making capabilities
-
 ### **🎖️ [ROCSystem](https://github.com/ak4m410x01/ROCSystem)** 
 **Reserve Officers College System** | `ASP.NET Core` `MVC` `Entity Framework` `Bootstrap` `RBAC`
 - Built secure, multi-tenant .NET applications for Egyptian Reserve Officers College administrative operations
 - Streamlined complex administrative workflows, reducing processing time by 35% through automation
 - Implemented military-grade security protocols ensuring data confidentiality and system integrity
 - Designed with extensibility in mind, allowing easy addition of new modules and features
+
+### **🏢 [ERP Systems](https://github.com/ak4m410x01/ERP-Systems)** 
+**Enterprise Resource Planning Suite** | `C#` `ASP.NET Core` `SQL Server` `Redis` `Docker` `Clean Architecture`
+- Developed comprehensive ERP solutions streamlining finance, HR, inventory, and sales operations across multiple departments
+- Implemented sophisticated role-based access control with granular permissions and audit trails
+- Integrated business process automation reducing manual work by 40% and improving operational efficiency
+- Designed real-time reporting and analytics dashboards enhancing strategic decision-making capabilities
 
 ### **🛒 [LBSNEE](https://github.com/ak4m410x01/LBSNEE)** 
 **Localized E-Commerce API** | `ASP.NET Core Web API` `Redis` `Docker` `PostgreSQL` `Load Balancing`
