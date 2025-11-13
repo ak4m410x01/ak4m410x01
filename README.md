@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
   <h1>👋 Hey, I'm <span style="color:#f85d7f">Abdullah Kamal</span></h1>
-  <h3>🚀 Software Engineer | Full Stack Developer</h3>
+  <h3>🚀 Software Engineer | Full Stack Developer | .NET Developer</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=ak4m410x01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
