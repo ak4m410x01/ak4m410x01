@@ -57,7 +57,7 @@ I'm a passionate **Full Stack .NET Developer** with **2+ years** of experience c
 ## 🛠 Technical Stack
 
 ### **Backend & .NET Ecosystem**
-`C#` `.NET 6/7/8` `ASP.NET Core` `Web API` `MVC` `Minimal APIs` `Entity Framework Core` `Dapper` `LINQ` `SignalR` `gRPC` `MediatR` `AutoMapper` `Mapster` `FluentValidation` `xUnit` `NUnit` `Moq` `Fluent API` `Background Services` `Hangfire`
+`C#`, `.NET Framework 4.x`, `.NET 6/7/8/9/10` `ASP.NET Core` `Web API` `MVC` `Minimal APIs` `Entity Framework Core` `Dapper` `LINQ` `SignalR` `gRPC` `MediatR` `AutoMapper` `Mapster` `FluentValidation` `xUnit` `NUnit` `Moq` `Fluent API` `Background Services` `Hangfire`
 
 ### **Architecture & Design Patterns**
 `Clean Architecture` `Microservices` `CQRS` `Mediator` `Repository Pattern` `Unit of Work` `Specification Pattern` `Factory Pattern` `Strategy Pattern` `SOLID Principles` `DRY` `KISS` `YAGNI` `Domain-Driven Design` `REST API Design` `3-Tier Architecture`
