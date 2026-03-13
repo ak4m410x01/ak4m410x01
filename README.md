@@ -58,13 +58,13 @@ I'm a **Full Stack .NET Developer** with **2+ years** of professional experience
 ## 🛠 Technical Stack
 
 ### **Backend & .NET Ecosystem**
-`C#`, `.NET Framework 4.x`, `.NET 6/7/8/9`, `ASP.NET Core`, `Web API`, `MVC`, `Minimal APIs`, `Entity Framework Core`, `Dapper`, `LINQ`, `SignalR`, `gRPC`, `MediatR`, `AutoMapper`, `Mapster`, `FluentValidation`, `xUnit`, `NUnit`, `Moq`, `Fluent API`, `Background Services`, `Hangfire`, `Payment & API Integrations`
+`C#`, `.NET Framework 4.x`, `.NET 6/7/8/9/10`, `ASP.NET Core`, `Web API`, `MVC`, `Minimal APIs`, `Entity Framework Core`, `Dapper`, `LINQ`, `SignalR`, `gRPC`, `MediatR`, `AutoMapper`, `Mapster`, `FluentValidation`, `xUnit`, `NUnit`, `Moq`, `Fluent API`, `Background Services`, `Hangfire`, `Payment & API Integrations`
 
 ### **Architecture & Design Patterns**
 `Clean Architecture`, `Microservices`, `CQRS`, `Mediator`, `Repository Pattern`, `Unit of Work`, `Specification Pattern`, `Factory Pattern`, `Strategy Pattern`, `SOLID Principles`, `DRY`, `KISS`, `YAGNI`, `Domain-Driven Design`, `REST API Design`, `3-Tier Architecture`, `Scalable & Maintainable Systems`
 
 ### **Frontend Development**
-`HTML5`, `CSS3`, `Bootstrap`, `Tailwind CSS`, `JavaScript (ES6+)`, `TypeScript`, `jQuery`, `Ajax`, `Razor Pages`, `Blazor`, `React`, `Responsive Design`, `Cross-Browser Compatibility`, `UI/UX Principles`, `Performance Optimization`
+`HTML5`, `CSS3`, `Bootstrap`, `Tailwind CSS`, `JavaScript (ES6+)`, `TypeScript`, `jQuery`, `Ajax`, `Razor Pages`, `Blazor`, `React`, `Next.js`, `Responsive Design`, `Cross-Browser Compatibility`, `UI/UX Principles`, `Performance Optimization`
 
 ### **Databases & Caching**
 `SQL Server`, `PostgreSQL`, `MySQL`, `MongoDB`, `Redis`, `Database Design`, `Query Optimization`, `Indexing`, `Stored Procedures`, `Views`, `Transactions`, `ACID Properties`, `Data Migration`, `Backup & Recovery`, `High Availability & Scalability`
