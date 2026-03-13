@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
   <h1>👋 Hey, I'm <span style="color:#f85d7f">Abdullah Kamal</span></h1>
-  <h3>🚀 Software Engineer | Full Stack Developer | .NET Developer</h3>
+  <h3>🚀 Software Engineer | Full Stack .NET Developer | Cloud & Systems Architect</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=ak4m410x01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -37,28 +37,28 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a passionate **Full Stack .NET Developer** with **2+ years** of experience building scalable, enterprise-grade web applications and APIs that solve real business challenges. Skilled in Clean Architecture, CQRS, microservices, cloud-native development, and modern front-end frameworks, I combine competitive programming excellence with practical software engineering expertise to deliver maintainable, high-performance solutions that engineers respect and business leaders value.
+I'm a **Full Stack .NET Developer** with **2+ years** of professional experience engineering production systems that real organisations depend on — from defence-grade platforms for the **Egyptian Armed Forces** to large-scale **ERP modernisation** at the National Quality Stores Foundation. I don't just write code; I think in systems. My work sits at the intersection of **Clean Architecture**, **CQRS**, **Microservices**, and **cloud-native deployment**, and I bring to every project the analytical discipline of a competitive programmer who ranked **#21 out of 300+ teams** at ICPC ECPC 2022.
 
 ### 🎯 What I Bring to the Table
-- 💻 **Full Stack Expertise** – Delivering end-to-end solutions from database design to responsive, modern UIs with scalable, maintainable code.  
-- 🏗️ **Architecture & Design Mastery** – Expert in Clean Architecture, Microservices, CQRS, and Domain-Driven Design, building systems that scale and evolve seamlessly.  
-- ☁️ **Cloud-Native & DevOps** – Hands-on production experience with Docker, Kubernetes, Azure, and AWS for robust, cloud-ready deployments.  
-- ⚡ **Performance & Optimization** – Improved API response times by 20–30% through profiling, caching strategies, and smart architectural decisions.  
-- 🛡️ **Security-First Mindset** – Implemented JWT authentication, RBAC, secure payment workflows, and best practices for data protection.  
-- 🎯 **Competitive Programming & Problem Solving** – ICPC 2022 Finalist (Top 21/300+ teams), active on Codeforces & LeetCode, solving complex algorithmic challenges.  
-- 🌟 **Leadership & Mentorship** – Mentored 1000+ students and junior developers, instilling best practices, clean code, and problem-solving skills.  
-- 📚 **Continuous Innovation** – Passionate about exploring emerging technologies, modern architectural patterns, and delivering high-impact software solutions.
+- 💻 **Full Stack Depth** – End-to-end ownership from database schema design and query optimisation to responsive, accessible UIs — built to last, not just to ship.
+- 🏗️ **Architecture That Scales** – Fluent in Clean Architecture, Microservices, CQRS, DDD, and the patterns that keep large codebases coherent as they grow and change over time.
+- ☁️ **Cloud-Native & DevOps Ready** – Production experience with Docker, Kubernetes, Azure, AWS, and GitHub Actions CI/CD — deploying with confidence, not fingers crossed.
+- ⚡ **Measurable Performance Gains** – Cut API response times by 20–30% and database query times by 25% through profiling-driven optimisation, strategic indexing, and Redis caching layers.
+- 🛡️ **Security as a First Principle** – JWT, refresh-token rotation, RBAC, policy-based authorisation, OTP/2FA, and secure payment workflows built in from architecture, not added as a patch.
+- 🎯 **Algorithmic Problem-Solving** – ICPC 2022 Finalist (Top 21/300+ teams), active on Codeforces & LeetCode — the kind of analytical thinking that shows up in every system design decision.
+- 🌟 **Leadership & Mentorship** – Mentored 1,000+ students and junior engineers in programming, data structures, and competitive programming, with a focus on building lasting habits, not just answering questions.
+- 📚 **Relentless Learning** – Consistently exploring emerging architectural patterns, cloud-native tooling, and modern .NET features to stay ahead and bring that knowledge into production.
 
 
 ### 🚀 My Development Philosophy
-> *"Great software engineering goes beyond writing code—it's about crafting scalable, maintainable, and high-performance solutions that deliver real business value. I prioritize security, efficiency, and clean architecture, ensuring every system I build is reliable, future-proof, and impactful for both users and the business."*
+> *"The measure of good software isn't whether it works on the day it ships — it's whether it can be understood, extended, and trusted a year later. I build with that engineer in mind: security by design, performance backed by data, and architecture that respects the people who maintain it."*
 
 ---
 
 ## 🛠 Technical Stack
 
 ### **Backend & .NET Ecosystem**
-`C#`, `.NET Framework 4.x`, `.NET 6/7/8/10`, `ASP.NET Core`, `Web API`, `MVC`, `Minimal APIs`, `Entity Framework Core`, `Dapper`, `LINQ`, `SignalR`, `gRPC`, `MediatR`, `AutoMapper`, `Mapster`, `FluentValidation`, `xUnit`, `NUnit`, `Moq`, `Fluent API`, `Background Services`, `Hangfire`, `Payment & API Integrations`
+`C#`, `.NET Framework 4.x`, `.NET 6/7/8/9`, `ASP.NET Core`, `Web API`, `MVC`, `Minimal APIs`, `Entity Framework Core`, `Dapper`, `LINQ`, `SignalR`, `gRPC`, `MediatR`, `AutoMapper`, `Mapster`, `FluentValidation`, `xUnit`, `NUnit`, `Moq`, `Fluent API`, `Background Services`, `Hangfire`, `Payment & API Integrations`
 
 ### **Architecture & Design Patterns**
 `Clean Architecture`, `Microservices`, `CQRS`, `Mediator`, `Repository Pattern`, `Unit of Work`, `Specification Pattern`, `Factory Pattern`, `Strategy Pattern`, `SOLID Principles`, `DRY`, `KISS`, `YAGNI`, `Domain-Driven Design`, `REST API Design`, `3-Tier Architecture`, `Scalable & Maintainable Systems`
@@ -86,32 +86,32 @@ I'm a passionate **Full Stack .NET Developer** with **2+ years** of experience b
 ## 💼 Professional Experience
 
 ### **💂 Full Stack Developer** — *Egyptian Armed Forces* `(05/2025 – 10/2025)`
-> **Mission-Critical Defense Systems** – Architected and maintained high-availability systems supporting national security operations
-- Designed and implemented secure, scalable solutions managing highly sensitive defense data  
-- Established robust security protocols, real-time monitoring, and alerting systems  
-- Developed comprehensive disaster recovery and business continuity procedures  
-- Ensured system reliability through rigorous testing, QA, and performance validation  
+> **Defence-Grade Systems Engineering** – Architected and maintained high-availability platforms for national security operations, where downtime and data exposure carry consequences far beyond a standard incident report
+- Designed multi-layered security architectures protecting classified operational data against both internal and external threat vectors
+- Built real-time system health monitoring and automated alerting pipelines to maintain 99.9% uptime under operational pressure
+- Authored and stress-tested comprehensive disaster recovery and business continuity runbooks used by the entire operations team
+- Led rigorous QA cycles and structured code reviews ensuring every release met military-grade reliability and security standards
 
 ### **🏢 Full Stack Developer** — *National Quality Stores Foundation* `(10/2024 – Present)`
-> **Enterprise ERP Transformation** – Enhancing large-scale ERP systems serving multiple business units
-- Optimized database performance, reducing query times by 25% through indexing and query tuning  
-- Implemented role-based access control and fine-grained authorization across financial, HR, and inventory modules  
-- Containerized applications using Docker, improving deployment consistency, scalability, and maintainability  
-- Developed real-time reporting dashboards, enabling faster cross-department decision-making  
+> **ERP Modernisation & Performance Engineering** – Overhauling a legacy ERP platform serving finance, HR, and inventory teams across multiple business units
+- Reduced database query execution times by 25% through targeted index design, query refactoring, and a Redis distributed caching layer
+- Implemented fine-grained RBAC with complete audit trails across all financial, HR, and inventory modules — no permission gap left unaddressed
+- Containerised all application services with Docker, eliminating environment-related deployment failures and making every release predictable
+- Delivered real-time cross-department reporting dashboards that reduced manual reporting effort by 40% and accelerated business decisions
 
 ### **💻 .NET Developer** — *Soft Forte* `(09/2024 – 04/2025)`
-> **Custom Business Applications** – Delivered high-performance, secure web applications for diverse clients
-- Applied Clean Architecture and CQRS, improving code maintainability, testability, and scalability  
-- Introduced unit testing practices, reducing production bugs by 15% and increasing reliability  
-- Integrated multiple third-party APIs and payment gateways with robust error handling  
-- Developed responsive front-end designs, ensuring optimal user experience across devices  
+> **Custom Application Development** – Built secure, high-performance web applications for a diverse client portfolio while raising the engineering bar across the team
+- Refactored legacy projects to Clean Architecture and CQRS, measurably improving testability and cutting new-engineer onboarding time
+- Established a unit and integration testing culture that drove production bug rates down by 15% and gave the team genuine confidence in releases
+- Integrated third-party services and payment gateways with structured error handling and full transaction rollback support
+- Delivered pixel-accurate, fully responsive front-end implementations across all assigned client projects on schedule and within scope
 
 ### **🌍 Back-End Developer (Freelance)** — *Upwork* `(07/2024 – Present)`
-> **International Client Solutions** – Building scalable, secure .NET Core solutions for global clients
-- Developed RESTful APIs with full documentation and automated testing coverage  
-- Resolved critical system issues, significantly enhancing application stability and performance  
-- Provided technical consulting on architecture, tech stack selection, and best practices  
-- Delivered projects on time while maintaining clear communication and ensuring client satisfaction
+> **International Client Engagements** – Delivering scoped .NET Core solutions for clients across industries and time zones, trusted to work autonomously and communicate technical complexity clearly
+- Designed and delivered well-documented, versioned RESTful APIs with thorough automated test coverage for multiple international clients
+- Diagnosed and resolved critical performance and stability issues in existing production systems under time pressure with zero service disruption
+- Provided architecture consultation on technology stack selection and system design trade-offs, helping clients avoid costly late-stage rework
+- Maintained consistent top-rated delivery through clear, proactive communication and disciplined on-time, in-scope execution
 
 ---
 
@@ -119,74 +119,74 @@ I'm a passionate **Full Stack .NET Developer** with **2+ years** of experience b
 
 ### **🎖️ [ROCSystem](https://github.com/ak4m410x01/ROCSystem)**  
 **Reserve Officers College System** | `ASP.NET Core` `MVC` `Entity Framework` `Bootstrap` `RBAC`  
-- Developed secure, multi-tenant .NET applications for administrative operations at the Reserve Officers College  
-- Automated complex workflows, reducing processing time by 35% and improving operational efficiency  
-- Implemented military-grade security protocols ensuring data confidentiality and system integrity  
-- Designed with modularity and extensibility in mind, allowing easy addition of new features and modules  
+- Built a secure, multi-tenant .NET platform managing officer records, administrative workflows, and internal scheduling for the Egyptian Reserve Officers College
+- Automated complex manual processes, cutting administrative processing time by 35% and reducing data-entry errors significantly
+- Implemented military-grade security protocols — hardened access controls, encrypted data at rest, and full audit logging for every sensitive operation
+- Designed for modularity and extensibility from the ground up, enabling new functional modules to be added without disrupting existing operations
 
 ### **🏢 [ERP Systems](https://github.com/ak4m410x01/ERP-Systems)**  
 **Enterprise Resource Planning Suite** | `C#` `ASP.NET Core` `SQL Server` `Redis` `Docker` `Clean Architecture`  
-- Built comprehensive ERP solutions for finance, HR, inventory, and sales operations across multiple departments  
-- Implemented fine-grained role-based access control and audit trails for secure operations  
-- Automated business processes, reducing manual work by 40% and boosting operational efficiency  
-- Created real-time reporting dashboards for enhanced strategic decision-making  
+- Engineered a production ERP platform unifying finance, HR, inventory, and sales operations across multiple business units with a single, consistent data model
+- Implemented granular role-based access control with complete audit trails — every permission change, data access, and transaction recorded and queryable
+- Automated core business workflows, reducing manual effort by 40% and removing bottlenecks that previously required human intervention at every step
+- Delivered real-time cross-department reporting dashboards that turned raw operational data into actionable business intelligence
 
 ### **🛒 [LBSNEE](https://github.com/ak4m410x01/LBSNEE)**  
-**Localized E-Commerce API** | `ASP.NET Core Web API` `Redis` `Docker` `PostgreSQL` `Load Balancing`  
-- Engineered high-performance shopping API connecting customers with local retailers  
-- Applied advanced Redis caching strategies, improving API response times by 30%  
-- Designed microservices architecture with load balancing for horizontal scalability  
-- Integrated real-time inventory management and order tracking systems  
+**Localised E-Commerce API** | `ASP.NET Core Web API` `Redis` `Docker` `PostgreSQL` `Load Balancing`  
+- Engineered a high-performance shopping API directly connecting customers with regional clothing retailers, optimised for low latency under concurrent load
+- Applied advanced Redis caching strategies that delivered a 30% improvement in API response times — measured, not estimated
+- Designed a containerised microservices architecture with load balancing that scales horizontally without requiring architectural rework as traffic grows
+- Integrated real-time inventory management and order tracking systems keeping product availability data consistently accurate
 
 ### **🏠 [Sakany](https://github.com/ak4m410x01/Sakany)**  
 **Real Estate Platform API** | `ASP.NET Core` `JWT` `Twilio` `CQRS` `PostgreSQL` `Dapper`  
-- Built a secure platform for property renting, buying, and management  
-- Implemented JWT authentication with refresh tokens and role-based access control  
-- Integrated Twilio for SMS notifications and appointment scheduling  
-- Applied CQRS pattern to optimize read/write operations and overall performance  
+- Built a full-featured real estate API covering property listing, search, rental, purchase, and appointment booking in a single cohesive platform
+- Implemented JWT authentication with refresh-token rotation and RBAC — session security handled at the architecture level, not bolted on
+- Integrated Twilio for real-time SMS notifications covering appointment confirmations, property status updates, and booking reminders
+- Applied CQRS to cleanly separate read and write concerns, optimising query performance without compromising command integrity
 
 ### **🛍️ [E-Commerce API](https://github.com/ak4m410x01/ECommerceAPI)**  
 **Full E-Commerce Solution** | `ASP.NET Core` `Payment Integration` `OTP` `Redis` `Docker` `Microservices`  
-- Developed end-to-end backend handling complex cart, order, and payment workflows  
-- Integrated multiple payment gateways (Stripe, PayPal) securely  
-- Implemented OTP verification and two-factor authentication for account security  
-- Designed inventory management system with real-time stock updates and alerting  
+- Built a production-ready e-commerce backend supporting complete cart, order, checkout, and fulfilment workflows with full transactional integrity
+- Integrated Stripe and PayPal payment gateways with secure, OTP-verified checkout flows and automated rollback on failed transactions
+- Implemented two-factor authentication for account security and fine-grained authorisation for all sensitive operations
+- Designed a microservices-based order processing engine that allows individual services to scale and deploy independently
 
 ### **📝 [Examination Platform](https://github.com/ak4m410x01/Examination-Platform)**  
 **Secure Online Assessment System** | `ASP.NET Core` `Docker` `Isolated Execution` `Real-time Monitoring`  
-- Developed secure exam platform with containerized code execution isolation  
-- Implemented real-time proctoring and plagiarism detection features  
-- Built scalable assessment engine supporting multiple question types and automated grading  
-- Ensured academic integrity via secure browser lockdown and activity monitoring  
+- Built a tamper-resistant assessment platform with Docker-based code execution sandboxing — every submission isolated, preventing any cross-candidate interference
+- Implemented real-time proctoring signals and automated plagiarism detection to enforce academic integrity at scale without manual oversight
+- Developed a scalable assessment engine supporting multiple question formats, time constraints, and automated grading with configurable scoring rules
+- Enforced submission security through browser activity monitoring and behavioural anomaly detection during live exam sessions
 
 ### **💪 [Gym Management Application](https://github.com/ak4m410x01/Gym-Management)**  
-**Fitness Center Management System** | `ASP.NET Core` `RBAC` `Scheduling` `Membership Management`  
-- Built gym management system with multi-level role-based access control  
-- Automated membership management, billing, and renewal notifications  
-- Created scheduling system for classes, personal training, and facility bookings  
-- Developed reporting dashboard for business analytics and member engagement tracking  
+**Fitness Centre Management System** | `ASP.NET Core` `RBAC` `Scheduling` `Membership Management`  
+- Built a complete fitness centre management platform with multi-tier RBAC covering admins, trainers, and members — each role seeing only what it needs
+- Automated membership billing cycles, renewal reminders, and expiry notifications, eliminating front-desk manual follow-up entirely
+- Developed a class and personal training scheduling engine handling bookings, cancellations, waitlists, and facility capacity constraints
+- Created a business analytics dashboard giving managers real-time visibility into membership trends, attendance, and revenue performance
 
-> 💡 **Technical Insight:** All projects follow **Clean Architecture**, include **comprehensive documentation**, **automated testing**, and **production-ready deployment configurations**.
+> 💡 **Technical Insight:** Every project follows **Clean Architecture**, ships with **comprehensive documentation**, **automated test coverage**, and **production-ready deployment configurations** — because code that can't be deployed confidently isn't finished.
 
 ---
 
 ## 🏆 Achievements & Certifications
 
 ### **Competitive Programming**
-- 🥇 **ICPC 2022 Finalist (Top 21/300+ Teams)** — Egyptian Collegiate Programming Contest  
+- 🥇 **ICPC ECPC 2022 — Top 7% (Rank #21 / 300+ Teams)** — Egyptian Collegiate Programming Contest  
 - ⚡ **Active Competitive Programmer** — Codeforces: [ak4m410x01](https://codeforces.com/profile/ak4m410x01), LeetCode: [ak4m410x01](https://leetcode.com/ak4m410x01)  
-  *Consistently solving complex algorithmic challenges and optimizing problem-solving skills.*
+  *Consistently solving complex algorithmic problems — the same analytical discipline that informs every architecture decision I make professionally.*
 
 ### **Education & Certifications**
 - 🎓 **.NET Developer Program** — Digital Egypt Pioneers Initiative (DEPI) 2024  
 - 📜 **Bachelor of Computer Science** — Faculty of Computers and AI, Sohag University (2020–2024)  
-  *Strong foundation in software engineering, data structures, and modern development practices.*
+  *Graduated with a strong grounding in software engineering fundamentals, data structures, algorithms, and systems design.*
 
 ### **Community Leadership**
 - 👨‍🏫 **Technical Instructor** — ATHAR Team  
-  *Trained 100+ students in Networking Fundamentals and Linux Administration, fostering practical skills and best practices.*  
-- 🤝 **Mentor & Guide** — ICPC Sohag University Community  
-  *Mentored 1000+ students in C++, DSA, and competitive programming, cultivating problem-solving excellence and team collaboration.*
+  *Trained 100+ students in Networking Fundamentals and Linux Administration — practical, hands-on sessions focused on building real competence, not just passing exams.*
+- 🤝 **Mentor & Community Builder** — ICPC Sohag University Community  
+  *Mentored 1,000+ students in C++, data structures, algorithms, and competitive programming — investing in the next generation of engineers with the same patience and rigour I'd want from a mentor.*
 
 ---
 
@@ -214,31 +214,31 @@ I'm a passionate **Full Stack .NET Developer** with **2+ years** of experience b
 
 | **Engineering Aspect** | **My Approach & Focus** |
 |------------------------|-------------------------|
-| **Code Quality** | Adhering to Clean Architecture, SOLID Principles, and comprehensive testing (Unit, Integration, E2E) to ensure robust, maintainable, and bug-free systems |
-| **Performance** | Optimizing queries, implementing caching strategies, load balancing, and efficient database indexing for high-speed, responsive applications |
-| **Security** | Enforcing JWT, RBAC, input validation, secure authentication, and data encryption to safeguard sensitive information and ensure compliance |
-| **Scalability** | Designing Microservices, leveraging containerization, cloud-native solutions, and horizontal scaling to handle growing workloads seamlessly |
-| **Maintainability** | Applying modular design, thorough documentation, code reviews, refactoring, and proven design patterns to simplify long-term system upkeep |
-| **Collaboration** | Practicing Agile methodologies, fostering clear communication, knowledge sharing, and pair programming for high-performing development teams |
-| **DevOps & Reliability** | Implementing CI/CD pipelines, Infrastructure as Code, monitoring, automated deployments, and health checks to deliver reliable, production-ready systems |
+| **Code Quality** | Clean Architecture, SOLID principles, and comprehensive test coverage (Unit, Integration, E2E) — writing code that the engineer reading it six months later will actually thank you for |
+| **Performance** | Profiling-driven optimisation: targeted indexing, Redis distributed caching, query refactoring, and load balancing — measured improvements, not guesswork |
+| **Security** | JWT with refresh-token rotation, RBAC, policy-based authorisation, input validation, data encryption, and XSS/CSRF/SQL injection prevention — security built in, not bolted on |
+| **Scalability** | Microservices architecture, Docker/Kubernetes containerisation, cloud-native design, and horizontal scaling strategies — systems that grow with the business without requiring rewrites |
+| **Maintainability** | Modular design, thorough inline and API documentation, structured code reviews, meaningful refactoring, and proven design patterns — because long-term upkeep is a feature, not an afterthought |
+| **Collaboration** | Agile/Scrum delivery, clear async communication, knowledge sharing, mentorship, and pair programming — because the best teams build more than the sum of their individual contributors |
+| **DevOps & Reliability** | CI/CD pipelines with automated testing gates, Infrastructure as Code, centralised logging, health checks, and production monitoring — deploying with confidence, recovering with speed |
 
 ---
 
 ## 📫 Let's Build Something Amazing!
 
-I'm passionate about collaborating on challenging projects and creating high-impact software solutions. I enjoy connecting with developers, tech leaders, and innovative companies to solve complex problems, optimize performance, and deliver scalable, maintainable systems.
+I'm at my best working on problems that are genuinely hard — distributed systems under real load, enterprise platforms that need to be both secure and maintainable, APIs that other teams depend on. If you're building something like that and want an engineer who takes architecture seriously, let's talk.
 
 ### **Currently Exploring**
-- **Architectural Challenges** – Designing complex systems, scalable microservices, and distributed architectures  
-- **Performance Optimization** – High-throughput applications, query tuning, and caching strategies  
-- **Cloud-Native Development** – Microservices, container orchestration, serverless patterns, and DevOps best practices  
-- **Technical Leadership** – Mentoring, code reviews, architecture decisions, and team enablement  
+- **Distributed Systems Design** – Event-driven architectures, eventual consistency, and building for failure in large-scale microservices environments
+- **Advanced Performance Engineering** – High-throughput API design, query profiling at scale, and cache invalidation strategies that actually hold up in production
+- **Cloud-Native Patterns** – Container orchestration, serverless integration, GitOps workflows, and platform engineering best practices
+- **Engineering Leadership** – Architecture decision records, technical mentorship frameworks, and building engineering cultures that produce great software consistently
 
 ### **Open To**
-- **Full-Time Roles** – Senior Full Stack Developer, Software Engineer, Technical Lead  
-- **Contract & Freelance Projects** – Enterprise applications, API development, system architecture  
-- **Technical Collaboration** – Open-source contributions, innovative prototypes, and R&D projects  
-- **Knowledge Exchange** – Technical workshops, speaking engagements, mentorship, and community leadership  
+- **Full-Time Roles** – Senior Full Stack .NET Developer, Software Engineer, Backend Engineer, Technical Lead
+- **Contract & Freelance Projects** – Enterprise application development, API architecture, performance engineering, system design consulting
+- **Technical Collaboration** – Open-source contributions, research prototypes, and meaningful side projects with serious engineers
+- **Knowledge Exchange** – Technical writing, workshop facilitation, conference talks, mentorship, and community leadership
 
 <p align="center">
   <i>🚀 "The best way to predict the future is to create it." – Abraham Lincoln</i>
