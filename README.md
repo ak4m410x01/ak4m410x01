@@ -37,7 +37,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a **Full Stack .NET Developer** with **3+ years of experience** engineering production-grade systems that real organisations depend on — from defence-grade platforms for the **Egyptian Armed Forces** to large-scale **ERP modernisation** at the National Quality Stores Foundation; I don’t just write code, I think in systems, working at the intersection of **Clean Architecture**, **CQRS**, **Microservices**, and **cloud-native deployment**, bringing the discipline of a competitive programmer who ranked **#21 out of 300+ teams** at **ICPC ECPC 2022**.
+I'm a **Senior Software Engineer** with **3+ years of experience** engineering production-grade systems that real organisations depend on — from defence-grade platforms for the **Egyptian Armed Forces** to large-scale **ERP modernisation** at the National Quality Stores Foundation; I don’t just write code, I think in systems, working at the intersection of **Clean Architecture**, **CQRS**, **Microservices**, and **cloud-native deployment**, bringing the discipline of a competitive programmer who ranked **#21 out of 300+ teams** at **ICPC ECPC 2022**.
 
 ### 🎯 What I Bring to the Table
 - 💻 **Full Stack Depth** – End-to-end ownership from database schema design and query optimisation to responsive, accessible UIs — built to last, not just to ship.
