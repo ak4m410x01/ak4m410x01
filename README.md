@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
   <h1>👋 Hey, I'm <span style="color:#f85d7f">Abdullah Kamal</span></h1>
-  <h3>🚀 Software Engineer | Full Stack .NET Developer | Cloud & Systems Architect</h3>
+  <h3>🚀 Senior Software Engineer | Full Stack .NET Developer | Cloud & Systems Architect</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=ak4m410x01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -37,7 +37,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a **Full Stack .NET Developer** with **2+ years** of professional experience engineering production systems that real organisations depend on — from defence-grade platforms for the **Egyptian Armed Forces** to large-scale **ERP modernisation** at the National Quality Stores Foundation. I don't just write code; I think in systems. My work sits at the intersection of **Clean Architecture**, **CQRS**, **Microservices**, and **cloud-native deployment**, and I bring to every project the analytical discipline of a competitive programmer who ranked **#21 out of 300+ teams** at ICPC ECPC 2022.
+I'm a **Full Stack .NET Developer** with **3+ years of experience** engineering production-grade systems that real organisations depend on — from defence-grade platforms for the **Egyptian Armed Forces** to large-scale **ERP modernisation** at the National Quality Stores Foundation; I don’t just write code, I think in systems, working at the intersection of **Clean Architecture**, **CQRS**, **Microservices**, and **cloud-native deployment**, bringing the discipline of a competitive programmer who ranked **#21 out of 300+ teams** at **ICPC ECPC 2022**.
 
 ### 🎯 What I Bring to the Table
 - 💻 **Full Stack Depth** – End-to-end ownership from database schema design and query optimisation to responsive, accessible UIs — built to last, not just to ship.
@@ -85,19 +85,19 @@ I'm a **Full Stack .NET Developer** with **2+ years** of professional experience
 
 ## 💼 Professional Experience
 
+### **🏢 Senior Software Engineer** — *National Quality Stores Foundation* `(10/2024 – Present)`
+> **ERP Modernisation & Performance Engineering** – Overhauling a legacy ERP platform serving finance, HR, and inventory teams across multiple business units
+- Reduced database query execution times by 25% through targeted index design, query refactoring, and a Redis distributed caching layer
+- Implemented fine-grained RBAC with complete audit trails across all financial, HR, and inventory modules — no permission gap left unaddressed
+- Containerised all application services with Docker, eliminating environment-related deployment failures and making every release predictable
+- Delivered real-time cross-department reporting dashboards that reduced manual reporting effort by 40% and accelerated business decisions
+
 ### **💂 Full Stack Developer** — *Egyptian Armed Forces* `(05/2025 – 10/2025)`
 > **Defence-Grade Systems Engineering** – Architected and maintained high-availability platforms for national security operations, where downtime and data exposure carry consequences far beyond a standard incident report
 - Designed multi-layered security architectures protecting classified operational data against both internal and external threat vectors
 - Built real-time system health monitoring and automated alerting pipelines to maintain 99.9% uptime under operational pressure
 - Authored and stress-tested comprehensive disaster recovery and business continuity runbooks used by the entire operations team
 - Led rigorous QA cycles and structured code reviews ensuring every release met military-grade reliability and security standards
-
-### **🏢 Full Stack Developer** — *National Quality Stores Foundation* `(10/2024 – Present)`
-> **ERP Modernisation & Performance Engineering** – Overhauling a legacy ERP platform serving finance, HR, and inventory teams across multiple business units
-- Reduced database query execution times by 25% through targeted index design, query refactoring, and a Redis distributed caching layer
-- Implemented fine-grained RBAC with complete audit trails across all financial, HR, and inventory modules — no permission gap left unaddressed
-- Containerised all application services with Docker, eliminating environment-related deployment failures and making every release predictable
-- Delivered real-time cross-department reporting dashboards that reduced manual reporting effort by 40% and accelerated business decisions
 
 ### **💻 .NET Developer** — *Soft Forte* `(09/2024 – 04/2025)`
 > **Custom Application Development** – Built secure, high-performance web applications for a diverse client portfolio while raising the engineering bar across the team
